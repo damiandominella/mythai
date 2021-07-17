@@ -61,21 +61,11 @@ main:
     image: /img/products-grid1.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
-<<<<<<< HEAD
-    quote: >-
-      The first time I tried MyThai’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      MyThai is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-=======
     quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
       the same thing I’ve been drinking every morning.
   - author: Philipp Trommler
     quote: Kaldi is the place to go if you want the best quality coffee. I love
       their stance on empowering farmers and transparency.
->>>>>>> d25409fd1087aedbf10de90e5ba2f10c58f4fdac
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions

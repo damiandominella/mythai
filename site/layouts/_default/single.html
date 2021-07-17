@@ -3,5 +3,25 @@
 <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
 <h1 class="f2 lh-title b mb3">{{.Params.subtitle}}</h1>
 
+<!-- <p>{{.Params.items}}</p> -->
 
-{{ .Content }} {{ end }}
+<ul>
+  {{ range .Params.items }}
+  <li style="margin: 40px 0">
+    <h3>{{ .title }}</h3>
+    <h6>{{ .description }}</h6>
+    <hr/>
+    <ul>
+      {{ range .items }}
+      <li>
+        <h5>{{ .name }}</h5>
+        <h5>{{ .description }}</h5>
+        <h5>{{ .price }}</h5>
+        <br/>
+      </li>
+      {{ end }}
+    </ul>
+  </li>
+  {{ end }}
+</ul>
+{{ end }}

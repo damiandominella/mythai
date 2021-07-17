@@ -90,26 +90,17 @@ collections: # A list of collections the CMS should be able to edit
           - { label: Image, name: image, widget: image }
           - { label: Heading, name: heading, widget: string }
           - { label: Description, name: description, widget: string }
-      #     - {
-      #         label: Intro,
-      #         name: intro,
-      #         widget: object,
-      #         fields:
-      #           [
-      #             { label: Heading, name: heading, widget: string },
-      #             { label: Description, name: description, widget: text },
-      #             {
-      #               label: Blurbs,
-      #               name: blurbs,
-      #               widget: list,
-      #               fields:
-      #                 [
-      #                   { label: Image, name: image, widget: image },
-      #                   { label: Text, name: text, widget: text },
-      #                 ],
-      #             },
-      #           ],
-      #       }
+          - {
+              label: Antipasti,
+              name: antipasti,
+              widget: object,
+              fields:
+                [
+                  { label: Heading, name: heading, widget: string },
+                  { label: Description, name: description, widget: text },
+                  { label: Price, name: price, widget: string },
+                ],
+            }
       #     - {
       #         label: Main,
       #         name: main,
