@@ -127,3 +127,72 @@
 h1 {
   font-size: 30px;
 }
+
+.menu {
+  background-color: var(--black);
+  color: var(--white);
+  padding: 15px;
+}
+
+.menu > .section {
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid var(--primary);
+}
+
+.menu > .section > .section-header {
+  margin-bottom: 20px;
+}
+
+.menu > .section > .section-header h4 {
+  font-weight: 100;
+}
+
+.menu > .section > .item {
+  display: grid;
+  grid-template-columns: 4fr 1fr;
+  gap: 10px;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.menu > .section > .item > div:first-child {
+  display: flex;
+  align-items: center;
+}
+
+.menu > .section > .item > div:last-child {
+  justify-self: flex-end;
+  align-self: flex-start;
+}
+
+.menu > .section > .item img {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+p {
+  margin: 0;
+  width: 100%;
+  font-weight: 100;
+  font-size: 12px;
+}
+
+.end {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 40px;
+}
+
+.end .back {
+  color: var(--primary);
+  text-decoration: none;
+}
+
+.end .back:focus {
+  box-shadow: none;
+}

@@ -10,7 +10,7 @@
   --grey-2: rgba(235, 231, 230, 1);
   --grey-3: rgba(89, 87, 86, 1);
   --grey-4: rgb(44, 43, 43);
-  --black: rgba(43, 37, 35, 1);
+  --black: rgb(29, 29, 29);
 
   /* Typography */
   --font-family: "Prompt", Nunito Sans, -apple-system, BlinkMacSystemFont,
