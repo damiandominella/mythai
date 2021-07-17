@@ -91,14 +91,24 @@ collections: # A list of collections the CMS should be able to edit
           - { label: Heading, name: heading, widget: string }
           - { label: Description, name: description, widget: string }
           - {
-              label: Antipasti,
-              name: antipasti,
-              widget: object,
+              label: Sezioni,
+              name: items,
+              widget: list,
               fields:
                 [
-                  { label: Heading, name: heading, widget: string },
-                  { label: Description, name: description, widget: text },
-                  { label: Price, name: price, widget: string },
+                  { label: Titolo, name: title, widget: string },
+                  { label: Descrizione, name: description, widget: text },
+                  {
+                    label: Piatti,
+                    name: items,
+                    widget: list,
+                    fields:
+                      [
+                        { label: Nome, name: name, widget: string },
+                        { label: Descrizione, name: description, widget: text },
+                        { label: Prezzo, name: price, widget: string },
+                      ],
+                  },
                 ],
             }
       #     - {
