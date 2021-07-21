@@ -8,17 +8,12 @@ collections:
   - name: 'pages'
     label: 'Pages'
     files:
-      # - file: 'site/content/_index.md'
-      #   label: 'Home Page'
-      #   name: 'home'
       - file: 'site/content/food/_index.md'
         label: 'Food'
         name: 'food'
         fields:
-          - { label: Title, name: title, widget: string }
-          - { label: Image, name: image, widget: image }
-          - { label: Heading, name: heading, widget: string }
-          - { label: Description, name: description, widget: string }
+          - { label: Titolo, name: title, widget: string }
+          - { label: Descrizione, name: description, widget: string }
           - {
               label: Sezioni,
               name: items,
@@ -47,3 +42,85 @@ collections:
                   },
                 ],
             }
+      - file: 'site/content/drinks/_index.md'
+        label: 'Drinks'
+        name: 'drinks'
+        fields:
+          - { label: Titolo, name: title, widget: string }
+          - { label: Descrizione, name: description, widget: string }
+          - {
+              label: Sezioni,
+              name: items,
+              widget: list,
+              fields:
+                [
+                  { label: Titolo, name: title, widget: string },
+                  { label: Descrizione, name: description, widget: text },
+                  {
+                    label: Drinks,
+                    name: items,
+                    widget: list,
+                    fields:
+                      [
+                        { label: Nome, name: name, widget: string },
+                        { label: Descrizione, name: description, widget: text },
+                        { label: Prezzo, name: price, widget: string },
+                      ],
+                  },
+                ],
+            }
+      - file: 'site/content/beers/_index.md'
+        label: 'Beers'
+        name: 'beers'
+        fields:
+          - { label: Titolo, name: title, widget: string }
+          - { label: Descrizione, name: description, widget: string }
+          - {
+              label: Sezioni,
+              name: items,
+              widget: list,
+              fields:
+                [
+                  { label: Titolo, name: title, widget: string },
+                  { label: Descrizione, name: description, widget: text },
+                  {
+                    label: Drinks,
+                    name: items,
+                    widget: list,
+                    fields:
+                      [
+                        { label: Nome, name: name, widget: string },
+                        { label: Descrizione, name: description, widget: text },
+                        { label: Prezzo, name: price, widget: string },
+                      ],
+                  },
+                ],
+            }
+      - file: 'site/content/wines/_index.md'
+        label: 'Wines'
+        name: 'wines'
+        fields:
+          - { label: Titolo, name: title, widget: string }
+          - { label: Descrizione, name: description, widget: string }
+          - {
+              label: Sezioni,
+              name: items,
+              widget: list,
+              fields:
+                [
+                  { label: Titolo, name: title, widget: string },
+                  { label: Descrizione, name: description, widget: text },
+                  {
+                    label: Drinks,
+                    name: items,
+                    widget: list,
+                    fields:
+                      [
+                        { label: Nome, name: name, widget: string },
+                        { label: Descrizione, name: description, widget: text },
+                        { label: Prezzo, name: price, widget: string },
+                      ],
+                  },
+                ],
+            }
+

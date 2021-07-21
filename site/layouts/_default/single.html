@@ -36,4 +36,9 @@
 
 <div class="end"><a class="back" href="/">Torna alla home</a></div>
 
-{{ end }}
+{{ if .Params.alert }}
+<div class="alert">
+  <h3>{{ .Params.alert.title }}</h3>
+  <p>{{ .Params.alert.content }}</p>
+</div>
+{{ end }} {{ end }}
