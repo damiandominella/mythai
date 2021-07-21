@@ -85,6 +85,11 @@
 /* Uncomment out the line below to help debug layout issues */
 /*@import './imports/_debug';*/
 
+a {
+  border: none !important;
+  box-shadow: none !important;
+}
+
 .menu-wrap {
   height: 100%;
   display: grid;
@@ -99,8 +104,6 @@
   text-decoration: none;
   background-color: var(--black);
   color: var(--primary);
-  border: none !important;
-  box-shadow: none !important;
 }
 
 /* #food {
@@ -216,7 +219,7 @@ p {
 .alert {
   color: #5e5957;
   text-align: center;
-  max-width: 60%;
+  max-width: 80%;
   margin: 0 auto;
   padding: 40px 0;
   display: flex;

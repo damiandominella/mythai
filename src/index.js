@@ -10,6 +10,6 @@ function resetHeight() {
   element.style.height = window.innerHeight + "px";
 }
 // reset the height whenever the window's resized
-window.addEventListener("resize", resetHeight);
+// window.addEventListener("resize", resetHeight);
 // called to initially set the height.
 resetHeight();
