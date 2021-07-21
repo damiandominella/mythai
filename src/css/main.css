@@ -85,16 +85,7 @@
 /* Uncomment out the line below to help debug layout issues */
 /*@import './imports/_debug';*/
 
-body {
-  min-height: -webkit-fill-available;
-  min-height: 100vh;
-}
-html {
-  height: -webkit-fill-available;
-}
-
 .menu-wrap {
-  height: -webkit-fill-available;
   height: 100vh;
   display: grid;
   grid-template-columns: 1fr 1fr;
