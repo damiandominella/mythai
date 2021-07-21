@@ -12,8 +12,6 @@ collections:
         label: 'Food'
         name: 'food'
         fields:
-          - { label: Titolo, name: title, widget: string }
-          - { label: Descrizione, name: description, widget: string }
           - {
               label: Sezioni,
               name: items,
@@ -30,13 +28,14 @@ collections:
                       [
                         { label: Nome, name: name, widget: string },
                         { label: Descrizione, name: description, widget: text },
+                        { label: Immagine, name: image, widget: image },
                         { label: Prezzo, name: price, widget: string },
                         {
                           label: Piccantezza,
                           name: spicy,
                           widget: number,
                           hint: Inserisci un valore numerico,
-                          required: false
+                          required: false,
                         },
                       ],
                   },
@@ -46,8 +45,6 @@ collections:
         label: 'Drinks'
         name: 'drinks'
         fields:
-          - { label: Titolo, name: title, widget: string }
-          - { label: Descrizione, name: description, widget: string }
           - {
               label: Sezioni,
               name: items,
@@ -64,6 +61,7 @@ collections:
                       [
                         { label: Nome, name: name, widget: string },
                         { label: Descrizione, name: description, widget: text },
+                        { label: Immagine, name: image, widget: image },
                         { label: Prezzo, name: price, widget: string },
                       ],
                   },
@@ -73,8 +71,6 @@ collections:
         label: 'Beers'
         name: 'beers'
         fields:
-          - { label: Titolo, name: title, widget: string }
-          - { label: Descrizione, name: description, widget: string }
           - {
               label: Sezioni,
               name: items,
@@ -91,6 +87,7 @@ collections:
                       [
                         { label: Nome, name: name, widget: string },
                         { label: Descrizione, name: description, widget: text },
+                        { label: Immagine, name: image, widget: image },
                         { label: Prezzo, name: price, widget: string },
                       ],
                   },
@@ -100,8 +97,6 @@ collections:
         label: 'Wines'
         name: 'wines'
         fields:
-          - { label: Titolo, name: title, widget: string }
-          - { label: Descrizione, name: description, widget: string }
           - {
               label: Sezioni,
               name: items,
@@ -118,9 +113,9 @@ collections:
                       [
                         { label: Nome, name: name, widget: string },
                         { label: Descrizione, name: description, widget: text },
+                        { label: Immagine, name: image, widget: image },
                         { label: Prezzo, name: price, widget: string },
                       ],
                   },
                 ],
             }
-
