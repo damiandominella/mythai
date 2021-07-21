@@ -86,16 +86,16 @@
 /*@import './imports/_debug';*/
 
 body {
-  min-height: 100vh;
   min-height: -webkit-fill-available;
+  min-height: 100vh;
 }
 html {
   height: -webkit-fill-available;
 }
 
 .menu-wrap {
-  height: 100vh;
   height: -webkit-fill-available;
+  height: 100vh;
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr 1fr;
