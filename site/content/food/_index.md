@@ -13,10 +13,12 @@ items:
         description: Lorem ipsum dolor sit amet orem ipsum dolor sit amet orem ipsum dolor sit amet orem ipsum dolor sit amet
         price: 3,99 €
         image: https://www.mundoasiatours.com/wp-content/uploads/2019/05/Thai-food-Tom-Yam-Kung.jpg
+        spicy: 3
       - name: Papaya green salad
         description: Lorem ipsum dolor sit amet orem ipsum dolor sit amet orem ipsum dolor sit amet orem ipsum dolor sit amet
         price: 3,99 €
         image: https://www.mundoasiatours.com/wp-content/uploads/2019/05/Thai-food-Tom-Yam-Kung.jpg
+        spicy: 1
       - name: Papaya green salad
         description: Lorem ipsum dolor sit amet orem ipsum dolor sit amet orem ipsum dolor sit amet orem ipsum dolor sit amet
         price: 3,99 €

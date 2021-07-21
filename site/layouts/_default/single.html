@@ -19,6 +19,14 @@
       </div>
       <div>
         <h3>{{ .price }}</h3>
+
+        {{ if .spicy }}
+        <div class="spicy">
+          {{ range $index, $num := (seq .spicy) }}
+          <img src="/img/icons/spicy.svg" />
+          {{ end}}
+        </div>
+        {{ end }}
       </div>
     </div>
     {{ end }}

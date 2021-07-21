@@ -85,6 +85,14 @@
 /* Uncomment out the line below to help debug layout issues */
 /*@import './imports/_debug';*/
 
+body {
+  min-height: 100vh;
+  min-height: -webkit-fill-available;
+}
+html {
+  height: -webkit-fill-available;
+}
+
 .menu-wrap {
   height: 100vh;
   display: grid;
@@ -97,20 +105,20 @@
   align-items: center;
   justify-content: center;
   text-decoration: none;
-  background-color: var(--grey-4);
+  background-color: var(--black);
   color: var(--white);
   border: none !important;
   box-shadow: none !important;
 }
 
-#food {
+/* #food {
   border-right: 1px solid var(--primary) !important;
   border-bottom: 1px solid var(--primary) !important;
 }
 #wines {
   border-left: 1px solid var(--primary) !important;
   border-top: 1px solid var(--primary) !important;
-}
+} */
 
 .menu-wrap > #logo {
   position: absolute;
@@ -121,7 +129,11 @@
   width: 150px;
   height: 150px;
   transform: translateX(-50%) translateY(-50%);
-  border: 1px solid var(--primary);
+  /* border: 1px solid var(--primary); */
+  background-image: url("/img/logo.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 h1 {
@@ -172,6 +184,18 @@ h1 {
   height: 60px;
   border-radius: 50%;
   margin-right: 10px;
+}
+
+.menu > .section > .item .spicy {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.menu > .section > .item .spicy img {
+  width: 20px;
+  height: 20px;
+  margin: 0;
+  transform: scaleX(-1) rotate(70deg);
 }
 
 p {

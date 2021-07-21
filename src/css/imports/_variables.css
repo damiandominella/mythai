@@ -2,7 +2,7 @@
 
 :root {
   /* Colors */
-  --primary: #95865d;
+  --primary: #ebc97d;
   --highlight: rgba(254, 213, 198, 1);
   --white: rgba(255, 255, 255, 1);
   --off-white: rgba(255, 253, 252, 1);
@@ -10,7 +10,7 @@
   --grey-2: rgba(235, 231, 230, 1);
   --grey-3: rgba(89, 87, 86, 1);
   --grey-4: rgb(44, 43, 43);
-  --black: rgb(29, 29, 29);
+  --black: #1f1b19;
 
   /* Typography */
   --font-family: "Prompt", Nunito Sans, -apple-system, BlinkMacSystemFont,
