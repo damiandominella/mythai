@@ -4,7 +4,7 @@ title: Food
 description: I food di myThai
 items:
   - title: Antipasti
-    description: Descrizione antipasti
+    description: Lorem ipsum dolor sit amet
     items:
       - name: Thai beef salad
         description: Filetto di manzo, spaghetti di soia, lime, coriandolo, salsa di
@@ -55,6 +55,7 @@ items:
       - name: Dodo
         description: "adsasda123 adsad "
         price: "13,00 "
+        image: img/beers.jpeg
 alert:
   title: ATTENZIONE
   content: Alcuni dei piatti e degli alimenti serviti in questo ristorante
