@@ -3,8 +3,9 @@ layout: single
 title: Food
 description: I food di myThai
 items:
-  - title: Antipasti
-    description: Lorem ipsum dolor sit amet
+  - title: ANTIPASTI
+    description: Benvenuti a bordo, ecco a voi il perfetto inizio per questo viaggio
+      con il gusto e con la mente destinazione Thailandia...
     items:
       - name: Thai beef salad
         description: Filetto di manzo, spaghetti di soia, lime, coriandolo, salsa di
