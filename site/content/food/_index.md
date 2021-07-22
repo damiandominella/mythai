@@ -7,6 +7,12 @@ items:
     description: Benvenuti a bordo, ecco a voi il perfetto inizio per questo viaggio
       con il gusto e con la mente destinazione Thailandia...
     items:
+      - name: Papaya green salad
+        description: Papaya verde, pomodoro, peperoni, cipolla, erba cipollina, salsa di
+          pesce, lime, zucchero
+        price: 6,00
+        image: https://www.mundoasiatours.com/wp-content/uploads/2019/05/Thai-food-Tom-Yam-Kung.jpg
+        spicy: 1
       - name: Thai beef salad
         description: Filetto di manzo, spaghetti di soia, lime, coriandolo, salsa di
           soia, piccante, verdure alla julienne, menta
@@ -19,12 +25,6 @@ items:
         price: 10,50
         image: https://www.mundoasiatours.com/wp-content/uploads/2019/05/Thai-food-Tom-Yam-Kung.jpg
         spicy: 1
-      - name: Papaya green salad
-        description: Papaya verde, pomodoro, peperoni, cipolla, erba cipollina, salsa di
-          pesce, lime, zucchero
-        price: 6,00
-        image: https://www.mundoasiatours.com/wp-content/uploads/2019/05/Thai-food-Tom-Yam-Kung.jpg
-        spicy: 3
       - name: My thai seafood salad
         description: Salmone alla piastra, calamaro, gambero, branzino, misto di
           verdure, lime, salsa di pesce
