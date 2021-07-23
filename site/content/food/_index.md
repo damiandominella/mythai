@@ -11,30 +11,30 @@ items:
         description: Papaya verde, pomodoro, peperoni, cipolla, erba cipollina, salsa di
           pesce, lime, zucchero
         price: 6,00
-        image: img/mythai_0089.jpg
+        image: img/myThai_0216.compressed.jpg
         spicy: 1
       - name: Thai beef salad
         description: Filetto di manzo, spaghetti di soia, lime, coriandolo, salsa di
           soia, piccante, verdure alla julienne, menta
         price: 9,50
-        image: https://www.mundoasiatours.com/wp-content/uploads/2019/05/Thai-food-Tom-Yam-Kung.jpg
+        image: img/myThai_0038-Modifica.compressed.jpg
         spicy: 1
       - name: Spicy tuna salad
         description: Tonno crudo, erba cipollina, coriandolo, zucchine, pendolini, riso
           saltato, porro germogli, lime
         price: 10,50
-        image: https://www.mundoasiatours.com/wp-content/uploads/2019/05/Thai-food-Tom-Yam-Kung.jpg
+        image: img/myThai_0064-Modifica.compressed.jpg
         spicy: 1
       - name: My thai seafood salad
         description: Salmone alla piastra, calamaro, gambero, branzino, misto di
           verdure, lime, salsa di pesce
         price: 11,00
-        image: https://www.mundoasiatours.com/wp-content/uploads/2019/05/Thai-food-Tom-Yam-Kung.jpg
+        image: img/myThai_0071.compressed.jpg
         spicy: 1
       - name: Thai hot calamari Salad
         description: Calamaro, verdure miste, piccante, salsa di pesce, lime
         price: 9,00
-        image: https://www.mundoasiatours.com/wp-content/uploads/2019/05/Thai-food-Tom-Yam-Kung.jpg
+        image: img/myThai_0100.compressed.jpg
         spicy: 1
       - name: Spring roll (3 pz)
         description: Carne macinata, verdura mista (carote, zucchine, erba cipollina,
