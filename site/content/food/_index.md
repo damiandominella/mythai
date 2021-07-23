@@ -11,7 +11,7 @@ items:
         description: Papaya verde, pomodoro, peperoni, cipolla, erba cipollina, salsa di
           pesce, lime, zucchero
         price: 6,00
-        image: https://www.mundoasiatours.com/wp-content/uploads/2019/05/Thai-food-Tom-Yam-Kung.jpg
+        image: img/mythai_0089.jpg
         spicy: 1
       - name: Thai beef salad
         description: Filetto di manzo, spaghetti di soia, lime, coriandolo, salsa di
