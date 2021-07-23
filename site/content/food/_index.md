@@ -97,11 +97,11 @@ items:
         image: img/myThai_0221.compressed.jpg
       - name: Nasi goreang
         description: Riso saltato con uovo, pollo e frutti di mare
-        image: img/logo.png
+        image: img/myThai_0233.compressed.jpg
         price: "10.00"
       - name: riso bianco thai jusmin
         description: .
-        image: img/logo.png
+        image: img/myThai_0367.compressed.jpg
         price: "3.00"
       - name: Pad thai ki
         description: con pollo e verdure
@@ -109,16 +109,49 @@ items:
         price: "11.00"
       - name: Pad thai kung
         description: con gamberi e verdure
-        image: img/food.jpeg
+        image: img/myThai_0247.compressed.jpg
         price: "11.50"
       - name: Pad thai phak
         description: vegetariano con verdure e uovo
-        image: img/food.jpeg
+        image: img/myThai_0262.compressed.jpg
         price: "10.00"
       - name: Singapore noodles
         description: noodles con uovo, pollo e verdure
         image: img/logo.png
         price: "10.50"
+  - title: SECONDI
+    items:
+      - name: Chicken cashew nuts
+        description: Pollo saltato con verdure miste e anacardi
+        price: "9.50"
+        image: img/myThai_0270.compressed.jpg
+      - name: Red curry beef
+        description: Filetto di manzo al curry rosso
+        price: "11.00"
+        image: img/myThai_0292.compressed.jpg
+        spicy: 1
+      - name: Slice fish in oyster
+        description: Branzino marinato e fritto con funghi neri, peperoni e verdure
+        image: img/myThai_0368.compressed.jpg
+        price: "12.50"
+      - name: Basil Thai pork
+        description: Carne di maiale macinato, verdure, basilico, riso bianco e uovo
+        image: img/logo.png
+        price: "11.00"
+        spicy: 1
+      - name: Massaman pork
+        description: Filetto di maiale marinata con pasta massaman, verdure e latte di cocco
+        image: img/myThai_0352.compressed.jpg
+        price: "9.00"
+        spicy: 1
+      - name: "seafood yellow curry "
+        description: frutti di mare con curcuma, peperoncino e curry
+        image: img/myThai_0303.compressed.jpg
+        price: "10.50"
+      - name: Wok fried vegetables
+        description: misto di verdure saltate alla wok
+        image: img/myThai_0393.compressed.jpg
+        price: "6.50"
 alert:
   title: ATTENZIONE
   content: Alcuni dei piatti e degli alimenti serviti in questo ristorante
