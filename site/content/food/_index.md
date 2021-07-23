@@ -11,25 +11,25 @@ items:
         description: Papaya verde, pomodoro, peperoni, cipolla, erba cipollina, salsa di
           pesce, lime, zucchero
         price: 6,00
-        image: img/myThai_0216.compressed.jpg
+        image: img/myThai_0087.compressed.jpg
         spicy: 1
       - name: Thai beef salad
         description: Filetto di manzo, spaghetti di soia, lime, coriandolo, salsa di
           soia, piccante, verdure alla julienne, menta
         price: 9,50
-        image: img/myThai_0038-Modifica.compressed.jpg
+        image: img/myThai_0064-Modifica.compressed.jpg
         spicy: 1
       - name: Spicy tuna salad
         description: Tonno crudo, erba cipollina, coriandolo, zucchine, pendolini, riso
           saltato, porro germogli, lime
         price: 10,50
-        image: img/myThai_0064-Modifica.compressed.jpg
+        image: img/myThai_0116.compressed.jpg
         spicy: 1
       - name: My thai seafood salad
         description: Salmone alla piastra, calamaro, gambero, branzino, misto di
           verdure, lime, salsa di pesce
         price: 11,00
-        image: img/myThai_0071.compressed.jpg
+        image: img/myThai_0079.compressed.jpg
         spicy: 1
       - name: Thai hot calamari Salad
         description: Calamaro, verdure miste, piccante, salsa di pesce, lime
@@ -40,23 +40,85 @@ items:
         description: Carne macinata, verdura mista (carote, zucchine, erba cipollina,
           zenzero)
         price: 6,00
-        image: https://www.mundoasiatours.com/wp-content/uploads/2019/05/Thai-food-Tom-Yam-Kung.jpg
-        spicy: 1
+        image: img/myThai_0157.compressed.jpg
+        spicy: 0
+      - name: Vegghy spring roll (3 pz)
+        description: Verdura mista, salsa di soia
+        price: "5.00"
+        image: img/myThai_0143.compressed.jpg
+      - name: Dimsum gamberi (5 pz)
+        description: Ravioli al vapore con gamberi, verdure e salsa ostriche
+        image: img/myThai_0187.compressed.jpg
+        price: "7.00"
+      - name: Dimsum pollo (5 pz)
+        description: Ravioli al vapore con pollo, verdure e salsa ostriche
+        price: "7.00"
+        image: img/myThai_0193.compressed.jpg
+      - name: Dimsum maiale (5 pz)
+        description: Ravioli al vapore con maiale, erba cipollina e salsa ostriche
+        image: img/myThai_0205.compressed.jpg
+        price: "7.00"
+      - name: Thai satè (3 pz)
+        description: Pollo marinato al curry con salsa agli arachidi
+        image: img/myThai_0170-Modifica.compressed.jpg
+        price: "6.00"
+      - name: Bao Buns (1 pz)
+        description: |-
+          Panino di riso al vapore ripieno di:
+
+          - Maiale marinato
+          - Pollo fritto in agrodolce
+          - Gambero in tempura
+          - Vegetariano
+        price: 4.00 cad.
+        image: img/logo.png
   - title: Primi piatti
-    description: Scegli i nostri migliori primi piatti
+    description: il viaggio continua...
     items:
       - name: Tom yang kung
         description: Zuppa di gamberi
         price: 9,50
-        image: https://www.mundoasiatours.com/wp-content/uploads/2019/05/Thai-food-Tom-Yam-Kung.jpg
+        image: img/myThai_0034-Modifica.compressed.jpg
+        spicy: 2
       - name: Tom yang khay
         description: Zuppa di pollo, latte di cocco
         price: 9,00
-        image: https://www.mundoasiatours.com/wp-content/uploads/2019/05/Thai-food-Tom-Yam-Kung.jpg
-      - name: Dodo
-        description: "adsasda123 adsad "
-        price: "13,00 "
-        image: img/beers.jpeg
+        image: img/myThai_0038-Modifica.compressed.jpg
+        spicy: 2
+      - name: Singapore laksa
+        description: Noodle di grano, verdura mista asiatica, frutti di mare e latte di
+          cocco
+        price: "11.00 "
+        image: img/myThai_0119.compressed.jpg
+        spicy: 1
+      - name: Pineapple fried rice
+        description: Riso saltato con gamberi e ananas
+        price: "9.50"
+        image: img/myThai_0221.compressed.jpg
+      - name: Nasi goreang
+        description: Riso saltato con uovo, pollo e frutti di mare
+        image: img/logo.png
+        price: "10.00"
+      - name: riso bianco thai jusmin
+        description: .
+        image: img/logo.png
+        price: "3.00"
+      - name: Pad thai ki
+        description: con pollo e verdure
+        image: img/food.jpeg
+        price: "11.00"
+      - name: Pad thai kung
+        description: con gamberi e verdure
+        image: img/food.jpeg
+        price: "11.50"
+      - name: Pad thai phak
+        description: vegetariano con verdure e uovo
+        image: img/food.jpeg
+        price: "10.00"
+      - name: Singapore noodles
+        description: noodles con uovo, pollo e verdure
+        image: img/logo.png
+        price: "10.50"
 alert:
   title: ATTENZIONE
   content: Alcuni dei piatti e degli alimenti serviti in questo ristorante
