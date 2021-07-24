@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Menu
 sections:
     - title: Food
       image: img/food.jpeg

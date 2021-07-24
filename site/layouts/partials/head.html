@@ -1,5 +1,5 @@
 <head>
-  <title>{{ .Title }} | {{ $.Site.Title }}</title>
+  <title>{{ $.Site.Title }} | {{ .Title }} </title>
 
   {{ $stylesheet := .Site.Data.webpack.main }} {{ with $stylesheet.css }}
   <link href="{{ relURL . }}" rel="stylesheet" />
@@ -96,10 +96,12 @@
   <meta name="theme-color" content="#1f1b19" />
 
   <!-- Open Graph -->
-  <meta property="og:type" content="business.business" />
-  <meta property="og:title" content="MyThai | Asian Restaurant" />
-  <meta property="og:url" content="/" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="{{ $.Site.Title }}" />
+  <meta property="og:url" content="{{ $.Site.Params.Url }}" />
   <meta property="og:image" content="/img/logo.png" />
+  <meta property="og:image" content="{{ $.Site.Title }}" />
+  <meta property="og:description" content="{{ $.Site.Params.Description }}" />
 
   <!-- Icons -->
   <link
