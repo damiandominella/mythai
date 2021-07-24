@@ -8,6 +8,26 @@ collections:
   - name: 'pages'
     label: 'Pages'
     files:
+      - file: 'site/content/_index.md'
+        label: 'Home page'
+        name: 'home'
+        fields:
+          - {
+              label: Sezioni,
+              name: sections,
+              widget: list,
+              fields:
+                [
+                  { label: Titolo, name: title, widget: string },
+                  { label: Immagine, name: image, widget: image },
+                  {
+                    label: Link,
+                    name: link,
+                    widget: string,
+                    hint: 'Meglio se non lo cambi questo fra',
+                  },
+                ],
+            }
       - file: 'site/content/food/_index.md'
         label: 'Food'
         name: 'food'
@@ -32,7 +52,12 @@ collections:
                     fields:
                       [
                         { label: Nome, name: name, widget: string },
-                        { label: Descrizione, name: description, widget: text },
+                        {
+                          label: Descrizione,
+                          name: description,
+                          widget: text,
+                          required: false,
+                        },
                         { label: Immagine, name: image, widget: image },
                         { label: Prezzo, name: price, widget: string },
                         {
@@ -70,7 +95,12 @@ collections:
                     fields:
                       [
                         { label: Nome, name: name, widget: string },
-                        { label: Descrizione, name: description, widget: text },
+                        {
+                          label: Descrizione,
+                          name: description,
+                          widget: text,
+                          required: false,
+                        },
                         { label: Immagine, name: image, widget: image },
                         { label: Prezzo, name: price, widget: string },
                       ],
@@ -101,7 +131,12 @@ collections:
                     fields:
                       [
                         { label: Nome, name: name, widget: string },
-                        { label: Descrizione, name: description, widget: text },
+                        {
+                          label: Descrizione,
+                          name: description,
+                          widget: text,
+                          required: false,
+                        },
                         { label: Immagine, name: image, widget: image },
                         { label: Prezzo, name: price, widget: string },
                       ],
@@ -132,7 +167,12 @@ collections:
                     fields:
                       [
                         { label: Nome, name: name, widget: string },
-                        { label: Descrizione, name: description, widget: text },
+                        {
+                          label: Descrizione,
+                          name: description,
+                          widget: text,
+                          required: false,
+                        },
                         { label: Immagine, name: image, widget: image },
                         { label: Prezzo, name: price, widget: string },
                       ],

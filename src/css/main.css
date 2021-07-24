@@ -109,6 +109,7 @@ a {
   background-size: cover;
   background-repeat: no-repeat;
   position: relative;
+  text-align: center;
 }
 
 .menu-wrap > a:before {
@@ -124,27 +125,6 @@ a {
 .menu-wrap > a > h1 {
   position: relative;
   z-index: 1;
-}
-
-#food {
-  /* border-right: 1px solid var(--primary) !important;
-  border-bottom: 1px solid var(--primary) !important; */
-  background-image: url("/img/food.jpeg");
-}
-#wines {
-  /* border-left: 1px solid var(--primary) !important;
-  border-top: 1px solid var(--primary) !important; */
-  background-image: url("/img/wines.jpeg");
-}
-#drinks {
-  /* border-left: 1px solid var(--primary) !important;
-  border-top: 1px solid var(--primary) !important; */
-  background-image: url("/img/drink.jpeg");
-}
-#beers {
-  /* border-left: 1px solid var(--primary) !important;
-  border-top: 1px solid var(--primary) !important; */
-  background-image: url("/img/beers.jpeg");
 }
 
 .menu-wrap > #logo {
@@ -164,7 +144,7 @@ a {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 28px;
 }
 
 .menu {

@@ -1,9 +1,10 @@
 {{ define "main" }}
 <div class="menu-wrap" id="full-height">
-  <a id="food" href="/food"><h1>Food</h1></a>
-  <a id="drinks" href="/drinks"><h1>Drinks</h1></a>
-  <a id="beers" href="/beers"><h1>Beers</h1></a>
-  <a id="wines" href="/wines"><h1>Wines</h1></a>
+  {{ range .Params.sections }}
+  <a href="{{ .link }}" style="background-image: url({{ .image }})"
+    ><h1>{{.title}}</h1></a
+  >
+  {{ end }}
 
   <div id="logo"></div>
 </div>
