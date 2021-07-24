@@ -267,6 +267,10 @@ p {
   color: var(--grey-2);
 }
 
+.footer p a {
+  text-decoration: none;
+}
+
 .footer .social {
   display: flex;
   align-items: center;
