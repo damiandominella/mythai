@@ -78,15 +78,15 @@ items:
   - title: CALICI
     items:
       - name: Calice rosso
-        description: .
+        description: ""
         image: img/logo.png
         price: "8"
       - name: Calice bianco fermo
-        description: .
+        description: ""
         image: img/logo.png
         price: "6"
       - name: Calice Franciacorta
-        description: .
+        description: ""
         image: img/logo.png
         price: "8"
 ---
