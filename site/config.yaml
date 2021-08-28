@@ -5,6 +5,9 @@ title: MyThai | Asian Restaurant
 params:
   description: Asian Restaurant in San Marino
   url: https://mythaiasianrestaurant.it/
+  sendInBlue: 
+    url: https://api.sendinblue.com/v3/
+    apiKey: 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
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 

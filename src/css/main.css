@@ -240,6 +240,11 @@ p {
   box-shadow: none;
 }
 
+.skip {
+  color: #5e5957;
+  text-decoration: none;
+}
+
 .alert {
   color: #5e5957;
   text-align: center;
@@ -285,4 +290,58 @@ p {
 .footer .social i {
   color: var(--primary);
   font-size: 30px;
+}
+
+.newsletter form {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.grid {
+  display: grid;
+}
+
+.gap-20 {
+  gap: 20px;
+}
+
+.grid.cols-2 {
+  grid-template-columns: 1fr 1fr;
+}
+
+.grid > *.span-2 {
+  grid-column: span 2;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.ai-center {
+  align-items: center;
+}
+
+.jc-center {
+  justify-content: center;
+}
+
+.fd-column {
+  flex-direction: column;
+}
+
+.mb-40 {
+  margin-bottom: 40px;
+}
+
+.newsletter {
+  max-width: 100%;
+  width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.newsletter img {
+  width: 60px;
+  display: block;
+  margin: 0 auto 10px;
 }

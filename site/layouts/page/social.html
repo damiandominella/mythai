@@ -1,0 +1,81 @@
+{{ define "main" }}
+
+<div class="newsletter">
+  <img src="img/logo.png" />
+
+  <div class="ai-center jc-center fd-column d-flex mb-40">
+    <h1 class="primary">{{ .Params.title }}</h1>
+    <h3 class="white">{{ .Params.description }}</h3>
+  </div>
+
+  <form class="grid cols-2 gap-20" id="newsletter-form">
+    <div>
+      <input type="text" name="firstname" id="firstname" placeholder="Nome" />
+    </div>
+    <div>
+      <input type="text" name="lastname" id="lastname" placeholder="Cognome" />
+    </div>
+    <div class="span-2">
+      <input
+        type="email"
+        name="email"
+        id="email"
+        placeholder="E-mail"
+        required
+      />
+    </div>
+    <div class="span-2 ai-center jc-center gap-20 fd-column d-flex">
+      <button class="btn" type="submit">Vai al menù</button>
+      <a class="skip" href="/">Salta</a>
+    </div>
+  </form>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+<script type="text/javascript">
+  const URL = "{{ $.Site.Params.sendInBlue.url }}";
+  const API_KEY = "{{ $.Site.Params.sendInBlue.apiKey }}";
+
+  function sendData(data) {
+    axios
+      .post(
+        `${URL}contacts`,
+        {
+          email: data.email,
+          updateEnabled: true,
+          attributes: {
+            NOME: data.firstname,
+            COGNOME: data.lastname,
+          },
+        },
+        {
+          headers: {
+            "api-key": API_KEY,
+          },
+        }
+      )
+      .then(function (response) {
+        console.log(response);
+        window.location.href = "/";
+      })
+      .catch(function (error) {
+        console.log(error);
+      })
+      .finally(function () {});
+  }
+
+  $(document).ready(function () {
+    $(document).on("submit", "#newsletter-form", function () {
+      const firstname = document.getElementById("firstname").value;
+      const lastname = document.getElementById("lastname").value;
+      const email = document.getElementById("email").value;
+
+      sendData({ firstname, lastname, email });
+
+      return false;
+    });
+  });
+</script>
+
+{{ end }}
