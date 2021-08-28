@@ -183,6 +183,10 @@ h1 {
   gap: 10px;
 }
 
+.menu > .section > .item > div.no-image {
+  grid-template-columns: auto;
+}
+
 .menu > .section > .item > div:first-child p {
   color: #999;
 }

@@ -10,8 +10,10 @@
 
     {{ range .items }}
     <div class="item">
-      <div>
+      <div class="{{ if not .image }}no-image{{ end }}">
+        {{ if .image }}
         <div class="image" style="background-image: url({{ .image }})"></div>
+        {{ end}}
         <div>
           <h3>{{ .name }}</h3>
           <p>{{ .description }}</p>

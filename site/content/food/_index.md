@@ -100,7 +100,7 @@ items:
         image: img/myThai_0233.compressed.jpg
         price: "10.00"
       - name: riso bianco thai jusmin
-        description: .
+        description: ""
         image: img/myThai_0367.compressed.jpg
         price: "3.00"
       - name: Pad thai ki
