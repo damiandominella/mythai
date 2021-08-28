@@ -11,6 +11,6 @@ sections:
     image: img/wines.jpeg
     link: wines
   - title: Beers and beverage
-    image: img/logo.png
+    image: img/beers.jpeg
     link: beers
 ---
