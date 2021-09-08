@@ -31,11 +31,6 @@ items:
         price: 11,00
         image: img/myThai_0079.compressed.jpg
         spicy: 1
-      - name: Thai hot calamari Salad
-        description: Calamaro, verdure miste, piccante, salsa di pesce, lime
-        price: 9,00
-        image: img/myThai_0100.compressed.jpg
-        spicy: 1
       - name: Spring roll (3 pz)
         description: Carne macinata, verdura mista (carote, zucchine, erba cipollina,
           zenzero)
@@ -70,6 +65,7 @@ items:
           - Pollo fritto in agrodolce
           - Gambero in tempura
           - Vegetariano
+          - Salmone, cipollato e salsa teriyaki
         price: 4.00 cad.
         image: img/logo.png
   - title: Primi piatti
@@ -85,12 +81,6 @@ items:
         price: 9,00
         image: img/myThai_0038-Modifica.compressed.jpg
         spicy: 2
-      - name: Singapore laksa
-        description: Noodle di grano, verdura mista asiatica, frutti di mare e latte di
-          cocco
-        price: "11.00 "
-        image: img/myThai_0119.compressed.jpg
-        spicy: 1
       - name: Pineapple fried rice
         description: Riso saltato con gamberi e ananas
         price: "9.50"
@@ -115,12 +105,17 @@ items:
         description: vegetariano con verdure e uovo
         image: img/myThai_0262.compressed.jpg
         price: "10.00"
-      - name: Singapore noodles
-        description: noodles con uovo, pollo e verdure
+      - name: Shangai fried noodles
+        description: noodles di grano con uovo, pollo e verdure
         image: img/logo.png
-        price: "10.50"
+        price: "11.00"
   - title: SECONDI
     items:
+      - name: PANANG con pollo o gamberi
+        description: bocconcini di pollo o gamberi con curry rosso e latte di cocco,
+          servito con riso bianco thai jusmin
+        price: "11.00"
+        spicy: 1
       - name: Chicken cashew nuts
         description: Pollo saltato con verdure miste e anacardi
         price: "9.50"
@@ -130,13 +125,14 @@ items:
         price: "11.00"
         image: img/myThai_0292.compressed.jpg
         spicy: 1
-      - name: Slice fish in oyster
-        description: Branzino marinato e fritto con funghi neri, peperoni e verdure
-        image: img/myThai_0368.compressed.jpg
-        price: "12.50"
       - name: Basil Thai pork
         description: Carne di maiale macinato, verdure, basilico, riso bianco e uovo
         image: img/logo.png
+        price: "11.00"
+        spicy: 1
+      - name: Slice fish in oyster
+        description: carne di pollo macinata, verdure, basilico, riso bianco e uovo
+        image: ""
         price: "11.00"
         spicy: 1
       - name: Massaman pork
@@ -147,7 +143,7 @@ items:
       - name: "seafood yellow curry "
         description: frutti di mare con curcuma, peperoncino e curry
         image: img/myThai_0303.compressed.jpg
-        price: "10.50"
+        price: "11.00"
       - name: Wok fried vegetables
         description: misto di verdure saltate alla wok
         image: img/myThai_0393.compressed.jpg
