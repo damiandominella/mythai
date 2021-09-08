@@ -10,18 +10,15 @@ items:
     description: ""
     items:
       - name: Singha 33cl
-        description:
-          Lorem ipsum dolor sit amet orem ipsum dolor sit amet orem ipsum
+        description: Lorem ipsum dolor sit amet orem ipsum dolor sit amet orem ipsum
           dolor sit amet orem ipsum dolor sit amet
         price: "4"
       - name: Chang 33cl
-        description:
-          Lorem ipsum dolor sit amet orem ipsum dolor sit amet orem ipsum
+        description: Lorem ipsum dolor sit amet orem ipsum dolor sit amet orem ipsum
           dolor sit amet orem ipsum dolor sit amet
         price: "4"
       - name: Menabrea 33cl
-        description:
-          Lorem ipsum dolor sit amet orem ipsum dolor sit amet orem ipsum
+        description: Lorem ipsum dolor sit amet orem ipsum dolor sit amet orem ipsum
           dolor sit amet orem ipsum dolor sit amet
         price: "3.50"
       - name: Ichnusa non filtrata 50cl
@@ -35,12 +32,9 @@ items:
         price: "15"
   - title: BEVANDE
     items:
-      - name: "Acqua naturale o frizzante "
-        description: Lauretana 1L
-        price: "3"
       - name: Acqua naturale o frizzante
-        description: Lauretana 50cl
-        price: "1.50"
+        description: Levissima 0,75cl
+        price: "2.50"
       - name: Coca Cola / Coca zero / Fanta / Sprite
         description: ""
         price: "3.00"
@@ -50,15 +44,15 @@ items:
   - title: "THÈ MATCHA "
     items:
       - name: The freddo matcha al pompelmo
-        price: "4"
+        price: "4.00"
         description: ""
       - name: The matcha al gusto lime
         description: ""
-        price: "4"
+        price: "4.00"
       - name: Thè freddo matcha allo yuzu, zenzero e menta
         description: ""
-        price: "4"
-      - name: The freddo matcha black alla pesca e fava di tonta
+        price: "4.00"
+      - name: The freddo matcha black gusto pesca e fava di tonta
         description: ""
-        price: "4"
+        price: "4.00"
 ---
