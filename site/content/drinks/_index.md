@@ -47,4 +47,39 @@ items:
         description: vodka absolut, succo di lime, ginger beer fever tree
         image: img/drink.jpeg
         price: "6.00"
+  - title: GIN & TONIC
+    description: Se la vita ti da limoni... fatti un gin tonic.
+    items:
+      - name: GIN DAL GIAPPONE
+        description: |-
+          -ROKU selected edition
+          -ETSU
+          -ETSU double yuzu
+          -JINZU
+          -TOKIIRO NIGATA JAPANESE CRAFT
+        price: "10.00"
+      - name: GIN MADE IN ITALY
+        description: |
+          -GIN PRIMO
+          -PORTOFINO
+          -MALFY CLASSICO
+          -MALFY AL POLPELMO 
+        price: 8.00/10.00
+      - name: GIN DAL RESTO DEL MONDO
+        description: |-
+          -NORDES (SPAGNA)
+          -GIN MARE (SPAGNA)
+          -GUNPOWDER (IRLANDA)
+          -GUNPOWDER SARDINIAN CITRUS limited edition (IRLANDA)
+          -KNUT HANSEN (GERMANIA)
+          -SCAPEGRACE black gin (NUOVA ZELANDA)
+          -N°3 BARRY BROS & RUDD (REGNO UNITO)
+          -SILENT POOL (REGNO UNITO)
+        price: 8.00/10.00/12.00
+      - name: TONICA
+        description: |-
+          -FEVER TREE INDIAN
+          -FEVER TREE MEDITERRANEAN 
+          -FEVER TREE ELDERFLOWER
+        price: .
 ---
