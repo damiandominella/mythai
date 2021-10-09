@@ -12,7 +12,13 @@
     <div class="item">
       <div class="{{ if not .image }}no-image{{ end }}">
         {{ if .image }}
-        <div class="image" style="background-image: url({{ .image }})"></div>
+        <a
+          href="{{ .image }}"
+          data-fancybox
+          data-caption="{{ .title }}"
+        >
+          <div class="image" style="background-image: url({{ .image }})"></div>
+        </a>
         {{ end}}
         <div>
           <h3>{{ .name }}</h3>

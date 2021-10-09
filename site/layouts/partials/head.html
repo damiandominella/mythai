@@ -1,5 +1,5 @@
 <head>
-  <title>{{ $.Site.Title }} | {{ .Title }} </title>
+  <title>{{ $.Site.Title }} | {{ .Title }}</title>
 
   {{ $stylesheet := .Site.Data.webpack.main }} {{ with $stylesheet.css }}
   <link href="{{ relURL . }}" rel="stylesheet" />
@@ -99,7 +99,10 @@
   <meta property="og:type" content="website" />
   <meta property="og:title" content="{{ $.Site.Title }}" />
   <meta property="og:url" content="{{ $.Site.Params.Url }}" />
-  <meta property="og:image" content="https://mythaiasianrestaurant.it/img/logo_small.png" />
+  <meta
+    property="og:image"
+    content="https://mythaiasianrestaurant.it/img/logo_small.png"
+  />
   <meta property="og:image" content="{{ $.Site.Title }}" />
   <meta property="og:description" content="{{ $.Site.Params.Description }}" />
 
@@ -109,6 +112,11 @@
     href="https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css"
   />
 
+  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js"></script>
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.css"
+  />
   {{ if .IsHome }}
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   {{ end }}
