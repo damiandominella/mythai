@@ -107,7 +107,7 @@ items:
         price: "10.00"
       - name: Shangai fried noodles
         description: noodles di grano con uovo, pollo e verdure
-        image: img/logo.png
+        image: img/mythai_6ott_0135.jpg
         price: "11.00"
   - title: SECONDI
     items:
