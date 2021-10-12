@@ -127,7 +127,7 @@ items:
         spicy: 1
       - name: Basil Thai pork
         description: Carne di maiale macinato, verdure, basilico, riso bianco e uovo
-        image: img/logo.png
+        image: img/mythai_6ott_0085.jpg
         price: "11.00"
         spicy: 1
       - name: Slice fish in oyster
