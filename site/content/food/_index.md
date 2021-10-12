@@ -111,11 +111,11 @@ items:
         price: "11.00"
   - title: SECONDI
     items:
-      - name: PANANG con pollo o gamberi
-        description: bocconcini di pollo o gamberi con curry rosso e latte di cocco,
-          servito con riso bianco thai jusmin
-        price: "11.00"
+      - name: Pollo Panang
+        description: bocconcini di pollo con curry rosso e latte di cocco
+        price: "10.00"
         spicy: 1
+        image: img/mythai_6ott_0056.jpg
       - name: Chicken cashew nuts
         description: Pollo saltato con verdure miste e anacardi
         price: "9.50"
