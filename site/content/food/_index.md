@@ -144,6 +144,17 @@ items:
         description: misto di verdure saltate alla wok
         image: img/myThai_0393.compressed.jpg
         price: "6.50"
+      - name: Thai Green Curry
+        description: Bocconcini di pollo con curry verde, verdure, latte di cocco e
+          foglie di kaffir
+        image: img/MyThai_6ott_0020.compressed.jpg
+        price: "10.00"
+        spicy: 1
+      - name: Panang kung
+        description: Gamberi con curry rosso e latte di cocco
+        image: img/MyThai_6ott_0021.compressed.jpg
+        price: "11.00"
+        spicy: 1
 alert:
   title: ATTENZIONE
   content: Alcuni dei piatti e degli alimenti serviti in questo ristorante
