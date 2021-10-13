@@ -69,12 +69,12 @@ items:
     items:
       - name: Tom yang kung
         description: Zuppa di gamberi
-        price: 9,50
+        price: 9,00
         image: img/myThai_0034-Modifica.compressed.jpg
         spicy: 2
       - name: Tom yang khay
         description: Zuppa di pollo, latte di cocco
-        price: 9,00
+        price: 9,50
         image: img/myThai_0038-Modifica.compressed.jpg
         spicy: 2
       - name: Pineapple fried rice
