@@ -7,7 +7,7 @@ heading: Drinks
 description: I drinks di myThai
 items:
   - title: ASIAN COCKTAIL
-    description: I nostri cocktail ispirati all'asia
+    description: I nostri cocktail ispirati alla cultura asiatica
     items:
       - name: Matcha mojito
         description: rum agricolo, succo di lime, menta, zucchero di canna, polvere di
@@ -22,10 +22,10 @@ items:
         description: "Gin premium, estratto fresco di papaya, succo di lime, menta,
           tonica fever tree "
         price: "10.00"
-        image: https://www.mundoasiatours.com/wp-content/uploads/2019/05/Thai-food-Tom-Yam-Kung.jpg
+        image: img/MyThai_6ott_0098.compressed.jpg
       - name: Phi Phi Island
         description: vodka, liquore allo zenzero, menta, the verde matcha al gusto yuzu
-        image: img/drink.jpeg
+        image: ""
         price: "10.00"
       - name: Karesansui
         description: drink analcolico a base di succo di mango thai, soda all'ananas e
@@ -48,7 +48,7 @@ items:
         image: img/drink.jpeg
         price: "6.00"
   - title: GIN & TONIC
-    description: Se la vita ti da limoni... fatti un gin tonic.
+    description: Non il solito gin tonic....
     items:
       - name: GIN DAL GIAPPONE
         description: |-
@@ -75,11 +75,14 @@ items:
           -SCAPEGRACE black gin (NUOVA ZELANDA)
           -N°3 BARRY BROS & RUDD (REGNO UNITO)
           -SILENT POOL (REGNO UNITO)
+          -HENDRICK'S AMAZONIA
+          -HENDRICK'S MIDSUMMER
         price: 8.00/10.00/12.00
       - name: TONICA
         description: |-
           -FEVER TREE INDIAN
           -FEVER TREE MEDITERRANEAN 
           -FEVER TREE ELDERFLOWER
-        price: .
+          -SEVENTEEN 1724 PREMIUM TONIC
+        price: incluso nel gin
 ---
