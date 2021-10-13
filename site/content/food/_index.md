@@ -49,10 +49,6 @@ items:
         description: Ravioli al vapore con pollo, verdure e salsa ostriche
         price: "7.00"
         image: img/myThai_0193.compressed.jpg
-      - name: Dimsum maiale (5 pz)
-        description: Ravioli al vapore con maiale, erba cipollina e salsa ostriche
-        image: img/myThai_0205.compressed.jpg
-        price: "7.00"
       - name: Thai satè (3 pz)
         description: Pollo marinato al curry con salsa agli arachidi
         image: img/myThai_0170-Modifica.compressed.jpg
@@ -65,9 +61,9 @@ items:
           - Pollo fritto in agrodolce
           - Gambero in tempura
           - Vegetariano
-          - Salmone, cipollato e salsa teriyaki
+          - Salmone, cipollotto e salsa teriyaki
         price: 4.00 cad.
-        image: img/logo.png
+        image: img/MyThai_6ott_0140.compressed.jpg
   - title: Primi piatti
     description: il viaggio continua...
     items:
@@ -130,9 +126,9 @@ items:
         image: img/mythai_6ott_0085.jpg
         price: "11.00"
         spicy: 1
-      - name: Slice fish in oyster
+      - name: Basil Thai chicken
         description: carne di pollo macinata, verdure, basilico, riso bianco e uovo
-        image: ""
+        image: img/MyThai_6ott_0087.compressed.jpg
         price: "11.00"
         spicy: 1
       - name: Massaman pork
