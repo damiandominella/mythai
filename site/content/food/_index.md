@@ -52,7 +52,7 @@ items:
       - name: Thai satè (3 pz)
         description: Pollo marinato al curry con salsa agli arachidi
         image: img/myThai_0170-Modifica.compressed.jpg
-        price: "6.00"
+        price: "5.50"
       - name: Bao Buns (1 pz)
         description: |-
           Panino di riso al vapore ripieno di:
@@ -103,15 +103,26 @@ items:
         price: "10.00"
       - name: Shangai fried noodles
         description: noodles di grano con uovo, pollo e verdure
-        image: img/mythai_6ott_0135.jpg
+        image: img/MyThai_6ott_0128.compressed.jpg
         price: "11.00"
   - title: SECONDI
     items:
+      - name: Thai Green Curry
+        description: Bocconcini di pollo con curry verde, verdure, latte di cocco e
+          foglie di kaffir
+        image: img/MyThai_6ott_0020.compressed.jpg
+        price: "10.00"
+        spicy: 1
       - name: Pollo Panang
         description: bocconcini di pollo con curry rosso e latte di cocco
         price: "10.00"
         spicy: 1
         image: img/mythai_6ott_0056.jpg
+      - name: Gamberi Panang
+        description: Gamberi con curry rosso e latte di cocco
+        image: img/MyThai_6ott_0021.compressed.jpg
+        price: "11.00"
+        spicy: 1
       - name: Chicken cashew nuts
         description: Pollo saltato con verdure miste e anacardi
         price: "9.50"
@@ -140,21 +151,14 @@ items:
         description: frutti di mare con curcuma, peperoncino e curry
         image: img/myThai_0303.compressed.jpg
         price: "11.00"
+      - name: Sweet and sour (6pz)
+        description: Gamberi fritti con salsa agrodolce
+        image: img/MyThai_6ott_0123.compressed.jpg
+        price: "8.00"
       - name: Wok fried vegetables
         description: misto di verdure saltate alla wok
         image: img/myThai_0393.compressed.jpg
         price: "6.50"
-      - name: Thai Green Curry
-        description: Bocconcini di pollo con curry verde, verdure, latte di cocco e
-          foglie di kaffir
-        image: img/MyThai_6ott_0020.compressed.jpg
-        price: "10.00"
-        spicy: 1
-      - name: Panang kung
-        description: Gamberi con curry rosso e latte di cocco
-        image: img/MyThai_6ott_0021.compressed.jpg
-        price: "11.00"
-        spicy: 1
 alert:
   title: ATTENZIONE
   content: Alcuni dei piatti e degli alimenti serviti in questo ristorante
