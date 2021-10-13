@@ -34,12 +34,12 @@ items:
       - name: Spring roll (3 pz)
         description: Carne macinata, verdura mista (carote, zucchine, erba cipollina,
           zenzero)
-        price: 6,00
+        price: 5,50
         image: img/myThai_0157.compressed.jpg
         spicy: 0
       - name: Vegghy spring roll (3 pz)
         description: Verdura mista, salsa di soia
-        price: "5.00"
+        price: "4.50"
         image: img/myThai_0143.compressed.jpg
       - name: Dimsum gamberi (5 pz)
         description: Ravioli al vapore con gamberi, verdure e salsa ostriche
@@ -52,7 +52,7 @@ items:
       - name: Thai satè (3 pz)
         description: Pollo marinato al curry con salsa agli arachidi
         image: img/myThai_0170-Modifica.compressed.jpg
-        price: "5.50"
+        price: "5.00"
       - name: Bao Buns (1 pz)
         description: |-
           Panino di riso al vapore ripieno di:
