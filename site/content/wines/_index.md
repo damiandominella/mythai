@@ -9,8 +9,8 @@ items:
   - title: BOLLICINE
     description: ""
     items:
-      - name: Prosecco valdobbiadene
-        description: Rebuli
+      - name: "Prosecco valdobbiadene "
+        description: Rebuli (treviso)
         price: "18"
       - name: Prosecco DOC rosè
         description: Ruffino
