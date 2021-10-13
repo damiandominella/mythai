@@ -84,7 +84,7 @@ items:
       - name: Nasi goreang
         description: Riso saltato con uovo, pollo e frutti di mare
         image: img/myThai_0233.compressed.jpg
-        price: "11.00"
+        price: "11.50"
       - name: riso bianco thai jusmin
         description: ""
         image: img/myThai_0367.compressed.jpg
