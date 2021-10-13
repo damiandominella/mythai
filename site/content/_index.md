@@ -8,7 +8,7 @@ sections:
     image: img/drink.jpeg
     link: drinks
   - title: Wines
-    image: img/wines.jpeg
+    image: img/whatsapp-image-2021-10-12-at-3.18.07-pm.jpeg
     link: wines
   - title: Beers and beverage
     image: img/beers.jpeg
