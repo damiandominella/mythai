@@ -61,7 +61,6 @@ items:
           - Pollo fritto in agrodolce
           - Gambero in tempura
           - Vegetariano
-          - Salmone, cipollotto e salsa teriyaki
         price: 4.00 cad.
         image: img/MyThai_6ott_0140.compressed.jpg
   - title: Primi piatti
