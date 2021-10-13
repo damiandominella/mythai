@@ -111,11 +111,11 @@ items:
         description: Bocconcini di pollo con curry verde, verdure, latte di cocco e
           foglie di kaffir
         image: img/MyThai_6ott_0020.compressed.jpg
-        price: "10.00"
+        price: "11.00"
         spicy: 1
       - name: Pollo Panang
         description: bocconcini di pollo con curry rosso e latte di cocco
-        price: "10.00"
+        price: "10.50"
         spicy: 1
         image: img/mythai_6ott_0056.jpg
       - name: Gamberi Panang
@@ -125,7 +125,7 @@ items:
         spicy: 1
       - name: Chicken cashew nuts
         description: Pollo saltato con verdure miste e anacardi
-        price: "9.50"
+        price: "10.00"
         image: img/myThai_0270.compressed.jpg
       - name: Red curry beef
         description: Filetto di manzo al curry rosso
@@ -145,7 +145,7 @@ items:
       - name: Massaman pork
         description: Filetto di maiale marinata con pasta massaman, verdure e latte di cocco
         image: img/myThai_0352.compressed.jpg
-        price: "9.00"
+        price: "10.00"
         spicy: 1
       - name: "seafood yellow curry "
         description: frutti di mare con curcuma, peperoncino e curry
@@ -158,7 +158,7 @@ items:
       - name: Wok fried vegetables
         description: misto di verdure saltate alla wok
         image: img/myThai_0393.compressed.jpg
-        price: "6.50"
+        price: "6.00"
 alert:
   title: ATTENZIONE
   content: Alcuni dei piatti e degli alimenti serviti in questo ristorante
