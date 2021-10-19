@@ -345,3 +345,30 @@ p {
   display: block;
   margin: 0 auto 10px;
 }
+
+.call {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 15px;
+  padding: 15px;
+  align-items: stretch;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
+
+.call a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+.call a i {
+  font-size: 24px;
+}
+
+.btn-whatsapp {
+  background-color: #128c7e;
+}
