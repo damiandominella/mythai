@@ -349,7 +349,6 @@ p {
 .call {
   display: flex;
   justify-content: center;
-  flex-direction: column;
   gap: 15px;
   padding: 15px;
   align-items: stretch;
@@ -363,10 +362,34 @@ p {
   align-items: center;
   justify-content: center;
   gap: 10px;
+  width: 100%;
 }
 
 .call a i {
   font-size: 24px;
+}
+
+.call.shadow {
+  background: rgb(31, 27, 25);
+  background: -moz-linear-gradient(
+    0deg,
+    rgba(31, 27, 25, 1) 0%,
+    rgba(31, 27, 25, 0.4) 75%,
+    rgba(31, 27, 25, 0) 100%
+  );
+  background: -webkit-linear-gradient(
+    0deg,
+    rgba(31, 27, 25, 1) 0%,
+    rgba(31, 27, 25, 0.4) 75%,
+    rgba(31, 27, 25, 0) 100%
+  );
+  background: linear-gradient(
+    0deg,
+    rgba(31, 27, 25, 1) 0%,
+    rgba(31, 27, 25, 0.4) 75%,
+    rgba(31, 27, 25, 0) 100%
+  );
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#1f1b19",endColorstr="#1f1b19",GradientType=1);
 }
 
 .btn-whatsapp {

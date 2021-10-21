@@ -26,7 +26,7 @@
     </div>
     <div class="span-2 ai-center jc-center gap-20 fd-column d-flex">
       <button class="btn" type="submit">Vai al menù</button>
-      <a class="skip" href="/">Salta</a>
+      <a class="skip" href="/#from-social">Salta</a>
     </div>
   </form>
 </div>
@@ -34,12 +34,16 @@
 <div class="call">
   <a class="btn" href="tel:+390549964723">
     <i class="las la-phone"></i>
-    Chiama ora
+    Chiama
   </a>
 
-  <a class="btn btn-whatsapp" href="https://wa.me/+393351858147" target="_blank">
+  <a
+    class="btn btn-whatsapp"
+    href="https://wa.me/+393351858147"
+    target="_blank"
+  >
     <i class="lab la-whatsapp"></i>
-    Ordina su Whatsapp
+    Whatsapp
   </a>
 </div>
 
@@ -69,7 +73,7 @@
       )
       .then(function (response) {
         console.log(response);
-        window.location.href = "/";
+        window.location.href = "/#from-social";
       })
       .catch(function (error) {
         console.log(error);

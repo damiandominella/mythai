@@ -12,11 +12,7 @@
     <div class="item">
       <div class="{{ if not .image }}no-image{{ end }}">
         {{ if .image }}
-        <a
-          href="{{ .image }}"
-          data-fancybox
-          data-caption="{{ .title }}"
-        >
+        <a href="{{ .image }}" data-fancybox data-caption="{{ .title }}">
           <div class="image" style="background-image: url({{ .image }})"></div>
         </a>
         {{ end}}
@@ -49,4 +45,63 @@
   <h3>{{ .Params.alert.title }}</h3>
   <p>{{ .Params.alert.content }}</p>
 </div>
-{{ end }} {{ end }}
+{{ end }}
+
+<div class="call shadow" id="call" style="display: none">
+  <a class="btn" href="tel:+390549964723">
+    <i class="las la-phone"></i>
+    Chiama
+  </a>
+
+  <a
+    class="btn btn-whatsapp"
+    href="https://wa.me/+393351858147"
+    target="_blank"
+  >
+    <i class="lab la-whatsapp"></i>
+    Whatsapp
+  </a>
+</div>
+
+<script type="text/javascript">
+  if (window.location.hash) {
+    // Hide Header on on scroll down
+    var didScroll;
+    var lastScrollTop = 0;
+    var delta = 5;
+
+    $(window).scroll(function (event) {
+      didScroll = true;
+    });
+
+    setInterval(function () {
+      if (didScroll) {
+        hasScrolled();
+        didScroll = false;
+      }
+    }, 250);
+
+    function hasScrolled() {
+      var st = $(this).scrollTop();
+
+      // Make sure they scroll more than delta
+      if (Math.abs(lastScrollTop - st) <= delta) return;
+
+      // If they scrolled down and are past the navbar, add class .nav-up.
+      // This is necessary so you never see what is "behind" the navbar.
+      if (st > lastScrollTop && st > 100) {
+        // Scroll Down
+        $(".call").slideDown();
+      } else {
+        // Scroll Up
+        if (st + $(window).height() < $(document).height()) {
+          $(".call").slideUp();
+        }
+      }
+
+      lastScrollTop = st;
+    }
+  }
+</script>
+
+{{ end }}
