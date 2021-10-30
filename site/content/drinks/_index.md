@@ -84,5 +84,5 @@ items:
           -FEVER TREE MEDITERRANEAN 
           -FEVER TREE ELDERFLOWER
           -SEVENTEEN 1724 PREMIUM TONIC
-        price: incluso nel gin
+        price: .
 ---
