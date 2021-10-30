@@ -24,7 +24,7 @@ items:
           saltato, porro germogli, lime
         price: 10,50
         image: img/myThai_0116.compressed.jpg
-        spicy: 1
+        spicy: 2
       - name: My thai seafood salad
         description: Salmone alla piastra, calamaro, gambero, branzino, misto di
           verdure, lime, salsa di pesce
@@ -55,7 +55,7 @@ items:
         price: "5.00"
       - name: Bao Buns (1 pz)
         description: |-
-          Panino di riso al vapore ripieno di:
+          Panino di riso cotto al vapore ripieno di:
 
           - Maiale marinato
           - Pollo fritto in agrodolce
@@ -84,6 +84,7 @@ items:
         description: Riso saltato con uovo, pollo e frutti di mare
         image: img/myThai_0233.compressed.jpg
         price: "11.50"
+        spicy: 1
       - name: riso bianco thai jusmin
         description: ""
         image: img/myThai_0367.compressed.jpg
@@ -101,9 +102,10 @@ items:
         image: img/myThai_0262.compressed.jpg
         price: "10.00"
       - name: Shangai fried noodles
-        description: noodles di grano con uovo, pollo e verdure
+        description: noodles di grano con uovo, verdure, pollo o gamberi.
         image: img/MyThai_6ott_0128.compressed.jpg
         price: "11.00"
+        spicy: -2
   - title: SECONDI
     items:
       - name: Thai Green Curry
