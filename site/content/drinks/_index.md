@@ -29,7 +29,7 @@ items:
         price: "10.00"
       - name: Karesansui
         description: drink analcolico a base di succo di mango thai, soda all'ananas e
-          frutta fresca.
+          maracuja.
         image: ""
         price: "6.00"
   - title: I CLASSICI
