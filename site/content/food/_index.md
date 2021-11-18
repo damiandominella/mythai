@@ -160,6 +160,16 @@ items:
         description: misto di verdure saltate alla wok
         image: img/myThai_0393.compressed.jpg
         price: "6.00"
+  - title: DOLCI
+    items:
+      - name: Semifreddo cocco e mango
+        price: "5.00"
+      - name: Banana roll
+        description: Tipico thailandese
+        price: "5.00"
+      - name: Mochi (3pz)
+        description: Cocco - Mango - Vaniglia - Thè verde
+        price: "4.00"
 alert:
   title: ATTENZIONE
   content: Alcuni dei piatti e degli alimenti serviti in questo ristorante
