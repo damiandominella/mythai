@@ -52,15 +52,11 @@ items:
     items:
       - name: GIN DAL GIAPPONE
         description: |-
-          -ROKU selected edition
-
-          -ETSU
-
-          -ETSU double yuzu
-
-          -JINZU
-
-          -TOKIIRO NIGATA JAPANESE CRAFT
+          ROKU selected edition //
+          ETSU //
+          ETSU double yuzu //
+          JINZU //
+          TOKIIRO NIGATA JAPANESE CRAFT
         price: "10.00"
       - name: GIN MADE IN ITALY
         description: |
