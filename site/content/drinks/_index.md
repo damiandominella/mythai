@@ -113,4 +113,7 @@ items:
       - name: "AMUERTE "
         description: Perù
         price: "12.00"
+      - name: BAIGUR Saicon
+        description: Vietnam
+        price: "12.00"
 ---
