@@ -14,15 +14,15 @@ items:
           thè matcha e una goccia di angostura
         price: "10.00"
         image: img/MyThai_6ott_0035.compressed.jpg
-      - name: Tamarindo mule
-        description: "vodka, lime, succo di tamarindo, e soda all'aroma di limone "
-        price: "8.00"
-        image: ""
       - name: Ko samui
         description: "Gin premium, estratto fresco di papaya, succo di lime, menta,
           tonica fever tree "
         price: "10.00"
         image: img/MyThai_6ott_0098.compressed.jpg
+      - name: Tamarindo mule
+        description: "vodka, lime, succo di tamarindo, e soda all'aroma di limone "
+        price: "8.00"
+        image: ""
       - name: Phi Phi Island
         description: vodka, liquore allo zenzero, menta, the verde matcha al gusto yuzu
         image: ""
