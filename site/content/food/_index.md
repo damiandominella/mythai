@@ -63,7 +63,7 @@ items:
           - Vegetariano
         price: 4.00 cad.
         image: img/MyThai_6ott_0140.compressed.jpg
-  - title: Primi piatti
+  - title: PRIMI PIATTI
     description: il viaggio continua...
     items:
       - name: Tom yang kung
