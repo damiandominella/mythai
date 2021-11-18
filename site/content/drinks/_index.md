@@ -50,42 +50,67 @@ items:
   - title: GIN & TONIC
     description: Non il solito gin tonic....
     items:
-      - name: GIN DAL GIAPPONE
-        description: |-
-          ROKU selected edition //
-          ETSU //
-          ETSU double yuzu //
-          JINZU //
-          TOKIIRO NIGATA JAPANESE CRAFT
+      - name: ETSU
+        description: Giappone
         price: "10.00"
-      - name: GIN MADE IN ITALY
-        description: |
-          -GIN PRIMO
-
-          -PORTOFINO
-
-          -MALFY CLASSICO
-
-          -MALFY AL POLPELMO 
-        price: 8.00/10.00
-      - name: GIN DAL RESTO DEL MONDO
-        description: |-
-          -NORDES (SPAGNA)
-          -GIN MARE (SPAGNA)
-          -GUNPOWDER (IRLANDA)
-          -GUNPOWDER SARDINIAN CITRUS limited edition (IRLANDA)
-          -KNUT HANSEN (GERMANIA)
-          -SCAPEGRACE black gin (NUOVA ZELANDA)
-          -N°3 BARRY BROS & RUDD (REGNO UNITO)
-          -SILENT POOL (REGNO UNITO)
-          -HENDRICK'S AMAZONIA
-          -HENDRICK'S MIDSUMMER
-        price: 8.00/10.00/12.00
-      - name: TONICA
-        description: |-
-          -FEVER TREE INDIAN
-          -FEVER TREE MEDITERRANEAN 
-          -FEVER TREE ELDERFLOWER
-          -SEVENTEEN 1724 PREMIUM TONIC
-        price: .
+      - name: ROKU Selected Edition
+        description: Giappone
+        price: "10.00"
+      - name: Jinzu
+        description: "Giappone "
+        price: "10.00"
+      - name: OKINAWA Recipe 01
+        description: Giappone
+        price: "10.00"
+      - name: "KOKORO "
+        description: Giappone
+        price: "8.00"
+      - name: THE ILLUSIONIST GIN
+        description: Germania
+        price: "10.00"
+      - name: KNUT HANSEN
+        description: Germania
+        price: "10.00"
+      - name: BERRY BROSS N°3
+        description: Regno Unito
+        price: "8.00"
+      - name: SILENT POOL
+        description: Regno Unito
+        price: "10.00"
+      - name: GUNPOWDER Sardinian Citrus
+        description: Irlanda
+        price: "10.00"
+      - name: HENDRICK'S
+        description: Regno Unito
+        price: "10.00"
+      - name: HENDRICK'S AMAZONIA
+        description: Regno Unito (Limited Edition)
+        price: "12.00"
+      - name: HENDRICK'S MIDSUMMER
+        description: Regno Unito (Limited Edition)
+        price: "12.00"
+      - name: NORDES
+        description: "Spagna "
+        price: "8.00"
+      - name: MACARONESIAN Gin White
+        description: Spagna
+        price: "8.00"
+      - name: "GIN MARE "
+        description: Spagna
+        price: "10.00"
+      - name: GIN PRIMO
+        description: Italia
+        price: "10.00"
+      - name: PORTOFINO
+        description: Italia
+        price: "10.00"
+      - name: MALFY Classico
+        description: Italia
+        price: "8.00"
+      - name: "MALFY Pompelmo "
+        description: Italia
+        price: "8.00"
+      - name: "AMUERTE "
+        description: Perù
+        price: "12.00"
 ---
