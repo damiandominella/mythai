@@ -54,12 +54,18 @@ items:
         price: "20"
   - title: ROSSI
     items:
+      - name: Rosso di Marte - MORELLINO DI SCANSANO
+        description: "Ruffino "
+        price: "20"
+      - name: Rosso di Marte - BOLGHERI
+        description: Ruffino
+        price: "30"
       - name: Lagrein
         description: Edmund Mach
         price: "23"
       - name: Ronchedone
         description: Ca dei frati
-        price: "26"
+        price: "28"
   - title: CALICI
     items:
       - name: Calice rosso
