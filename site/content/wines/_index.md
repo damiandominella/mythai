@@ -70,11 +70,11 @@ items:
     items:
       - name: Calice rosso
         description: ""
-        price: "8"
+        price: "7"
       - name: Calice bianco fermo
         description: ""
         price: "6"
       - name: Calice Franciacorta
         description: ""
-        price: "8"
+        price: "7"
 ---
