@@ -10,25 +10,23 @@ items:
     description: ""
     items:
       - name: Singha 33cl
-        description: Lorem ipsum dolor sit amet orem ipsum dolor sit amet orem ipsum
-          dolor sit amet orem ipsum dolor sit amet
+        description: Thailandia
         price: "4"
       - name: Chang 33cl
-        description: Lorem ipsum dolor sit amet orem ipsum dolor sit amet orem ipsum
-          dolor sit amet orem ipsum dolor sit amet
+        description: |
+          Thailandia
         price: "4"
       - name: Menabrea 33cl
-        description: Lorem ipsum dolor sit amet orem ipsum dolor sit amet orem ipsum
-          dolor sit amet orem ipsum dolor sit amet
+        description: Italia
         price: "3.50"
       - name: Ichnusa non filtrata 50cl
-        description: ""
+        description: Italia
         price: "4.50"
       - name: Menabrea 5.5 75cl
-        description: ""
-        price: "11"
+        description: Italia
+        price: "9"
       - name: Viola Bionda 75cl
-        description: ""
+        description: italia (artigianale)
         price: "15"
   - title: BEVANDE
     items:
@@ -38,8 +36,8 @@ items:
       - name: Coca Cola / Coca zero / Fanta / Sprite
         description: ""
         price: "3.00"
-      - name: Thè Freddo
-        description: Lipton limone o pesca
+      - name: Thè Freddo Lipton
+        description: Limone o Pesca
         price: "3.00"
   - title: "THÈ MATCHA "
     items:
