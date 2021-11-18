@@ -61,8 +61,11 @@ items:
       - name: GIN MADE IN ITALY
         description: |
           -GIN PRIMO
+
           -PORTOFINO
+
           -MALFY CLASSICO
+
           -MALFY AL POLPELMO 
         price: 8.00/10.00
       - name: GIN DAL RESTO DEL MONDO
