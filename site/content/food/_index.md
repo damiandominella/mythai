@@ -170,6 +170,9 @@ items:
       - name: Mochi (3pz)
         description: Cocco - Mango - Vaniglia - Thè verde
         price: "4.00"
+      - name: "Dolce del giorno "
+        description: (chiedere al cameriere)
+        price: .
 alert:
   title: ATTENZIONE
   content: Alcuni dei piatti e degli alimenti serviti in questo ristorante
