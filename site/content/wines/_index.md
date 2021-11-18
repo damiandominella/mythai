@@ -31,10 +31,13 @@ items:
     items:
       - name: Louis Roederer
         price: "60"
-        description: ""
-      - name: "Bollinger "
-        description: ""
+        description: Collection 242
+      - name: Perrier-Jouet
+        description: Grand brut
         price: "65"
+      - name: Charles Heidsieck
+        description: Brut Reserve
+        price: "58"
   - title: BIANCHI FERMI
     items:
       - name: Moscato giallo
