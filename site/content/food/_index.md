@@ -26,8 +26,7 @@ items:
         image: img/myThai_0116.compressed.jpg
         spicy: 2
       - name: My thai seafood salad
-        description: Salmone alla piastra, calamaro, gambero, branzino, misto di
-          verdure, lime, salsa di pesce
+        description: calamaro, gambero, misto di verdure, lime, salsa di pesce
         price: 11,00
         image: img/myThai_0079.compressed.jpg
         spicy: 1
