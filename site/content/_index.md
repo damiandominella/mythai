@@ -4,7 +4,7 @@ sections:
   - title: Food
     image: img/food.jpeg
     link: food
-  - title: Drinks
+  - title: Drinks & Appetizers
     image: img/drink.jpeg
     link: drinks
   - title: Wines
