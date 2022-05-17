@@ -6,6 +6,13 @@ image: /img/home-jumbotron.jpg
 heading: Drinks
 description: I drinks di myThai
 items:
+  - title: APPETIZER
+    description: L'aperitivo in stile MyThai
+    items:
+      - name: Thai Tapas
+        description: Degustazione delle nostre Tapas
+        image: img/mythai_11maggio_177.jpg
+        price: 5,00
   - title: ASIAN COCKTAIL
     description: I nostri cocktail ispirati alla cultura asiatica
     items:
