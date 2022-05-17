@@ -3,7 +3,7 @@ layout: single
 title: Drinks
 subtitle: I drinks di myThai
 image: /img/home-jumbotron.jpg
-heading: Drinks
+heading: Drinks & Appetizers
 description: I drinks di myThai
 items:
   - title: APPETIZER
