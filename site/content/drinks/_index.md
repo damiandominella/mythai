@@ -16,7 +16,9 @@ items:
       - name: Thai Tacos (3pz)
         description: |
           - Tonno marinato, crema di avocado, salsa thai e uova dolce
-          - Gambero marinato al lime, pomodorini, insalata, crema di avocado 
+
+          - Gambero marinato al lime, pomodorini e crema di avocado 
+
           - Pollo al curry, crema di avocado, salsa sweet chili e uova dolce
         image: img/mythai_11maggio_126.jpg
         price: "8.00"
