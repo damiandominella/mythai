@@ -11,7 +11,7 @@ items:
     items:
       - name: Matcha mojito
         description: rum agricolo, succo di lime, menta, zucchero di canna, polvere di
-          thè matcha e una goccia di angostura
+          thè verde matcha
         price: "10.00"
         image: img/MyThai_6ott_0035.compressed.jpg
       - name: Ko samui
