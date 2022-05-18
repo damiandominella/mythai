@@ -44,12 +44,12 @@ items:
         image: ""
         price: "10.00"
       - name: Karesansui
-        description: drink analcolico a base di succo di mango thai, soda all'ananas e
-          maracuja.
+        description: Drink analcolico a base di succo di mango thai, maracuja e acqua
+          tonica Fever Tree
         image: ""
         price: "6.00"
   - title: I CLASSICI
-    description: I grandi classici che non passano mai di moda
+    description: ""
     items:
       - name: Aperol Spritz
         description: "aperol, prosecco e soda "
@@ -66,69 +66,42 @@ items:
   - title: GIN & TONIC
     description: Non il solito gin tonic....
     items:
-      - name: ETSU
-        description: Giappone
-        price: "10.00"
       - name: ROKU Selected Edition
         description: Giappone
-        price: "10.00"
-      - name: Jinzu
-        description: "Giappone "
         price: "10.00"
       - name: OKINAWA Recipe 01
         description: Giappone
         price: "10.00"
-      - name: "KOKORO "
-        description: Giappone
-        price: "8.00"
+      - name: GIN TROPEZ
+        description: Francia
+        price: "10.00"
       - name: THE ILLUSIONIST GIN
         description: Germania
         price: "10.00"
       - name: KNUT HANSEN
         description: Germania
         price: "10.00"
-      - name: BERRY BROSS N°3
-        description: Regno Unito
+      - name: COPPERHEAD BLACK BATCH EDITION
+        description: Belgio
         price: "8.00"
-      - name: SILENT POOL
-        description: Regno Unito
-        price: "10.00"
-      - name: GUNPOWDER Sardinian Citrus
-        description: Irlanda
-        price: "10.00"
+      - name: GINATO POMPELMO
+        description: Italia
+        price: "8.00"
       - name: HENDRICK'S
         description: Regno Unito
         price: "10.00"
       - name: HENDRICK'S AMAZONIA
         description: Regno Unito (Limited Edition)
         price: "12.00"
-      - name: HENDRICK'S MIDSUMMER
+      - name: HENDRICK'S NEPTUNIA
         description: Regno Unito (Limited Edition)
         price: "12.00"
       - name: NORDES
         description: "Spagna "
         price: "8.00"
-      - name: MACARONESIAN Gin White
-        description: Spagna
-        price: "8.00"
       - name: "GIN MARE "
         description: Spagna
         price: "10.00"
-      - name: GIN PRIMO
-        description: Italia
-        price: "10.00"
-      - name: PORTOFINO
-        description: Italia
-        price: "10.00"
-      - name: MALFY Classico
-        description: Italia
-        price: "8.00"
-      - name: "MALFY Pompelmo "
-        description: Italia
-        price: "8.00"
-      - name: "AMUERTE "
-        description: Perù
-        price: "12.00"
       - name: BAIGUR Saicon
         description: Vietnam
         price: "12.00"
