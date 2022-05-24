@@ -62,6 +62,13 @@ items:
           - Vegetariano
         price: 4.00 cad.
         image: img/MyThai_6ott_0140.compressed.jpg
+      - name: Thai Tacos (3pz)
+        image: img/mythai_11maggio_155.jpg
+        description: |-
+          - Tonno marinato, crema di avocado, salsa thai e uova dolce
+          - Pollo, crema di avocado, salsa thai e uova dolce
+          - Gambero al lime, pomodorini, salsa sweet chili e avocado
+        price: "10.00"
   - title: PRIMI PIATTI
     description: il viaggio continua...
     items:
