@@ -68,7 +68,7 @@ items:
           - Tonno marinato, crema di avocado, salsa thai e uova dolce
           - Pollo, crema di avocado, salsa thai e uova dolce
           - Gambero al lime, pomodorini, salsa sweet chili e avocado
-        price: "10.00"
+        price: "12.00"
   - title: PRIMI PIATTI
     description: il viaggio continua...
     items:
