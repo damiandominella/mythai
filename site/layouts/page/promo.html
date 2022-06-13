@@ -1,12 +1,6 @@
 {{ define "main" }}
 
 <div class="promo">
-  <img src="img/logo.png" />
-
-  <h3>{{ .Params.title }}</h3>
-  <div
-    class="promo-img"
-    style="background-image: url({{ .Params.image }})"
-  ></div>
+  <img src="{{ .Params.image }}" />
 </div>
 {{ end }}

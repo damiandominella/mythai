@@ -395,3 +395,7 @@ p {
 .btn-whatsapp {
   background-color: #128c7e;
 }
+
+.promo > img {
+  width: 100%;
+}
