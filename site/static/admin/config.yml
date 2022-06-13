@@ -1,16 +1,16 @@
 backend:
   name: git-gateway
 
-media_folder: 'site/static/img' # Folder where user uploaded files should go
-public_folder: 'img'
+media_folder: "site/static/img" # Folder where user uploaded files should go
+public_folder: "img"
 
 collections:
-  - name: 'pages'
-    label: 'Pages'
+  - name: "pages"
+    label: "Pages"
     files:
-      - file: 'site/content/_index.md'
-        label: 'Home page'
-        name: 'home'
+      - file: "site/content/_index.md"
+        label: "Home page"
+        name: "home"
         fields:
           - {
               label: Sezioni,
@@ -24,13 +24,13 @@ collections:
                     label: Link,
                     name: link,
                     widget: string,
-                    hint: 'Meglio se non lo cambi questo fra',
+                    hint: "Meglio se non lo cambi questo fra",
                   },
                 ],
             }
-      - file: 'site/content/food/_index.md'
-        label: 'Food'
-        name: 'food'
+      - file: "site/content/food/_index.md"
+        label: "Food"
+        name: "food"
         fields:
           - {
               label: Sezioni,
@@ -58,7 +58,12 @@ collections:
                           widget: text,
                           required: false,
                         },
-                        { label: Immagine, name: image, widget: image, required: false },
+                        {
+                          label: Immagine,
+                          name: image,
+                          widget: image,
+                          required: false,
+                        },
                         { label: Prezzo, name: price, widget: string },
                         {
                           label: Piccantezza,
@@ -71,9 +76,9 @@ collections:
                   },
                 ],
             }
-      - file: 'site/content/drinks/_index.md'
-        label: 'Drinks'
-        name: 'drinks'
+      - file: "site/content/drinks/_index.md"
+        label: "Drinks"
+        name: "drinks"
         fields:
           - {
               label: Sezioni,
@@ -101,15 +106,20 @@ collections:
                           widget: text,
                           required: false,
                         },
-                        { label: Immagine, name: image, widget: image, required: false },
+                        {
+                          label: Immagine,
+                          name: image,
+                          widget: image,
+                          required: false,
+                        },
                         { label: Prezzo, name: price, widget: string },
                       ],
                   },
                 ],
             }
-      - file: 'site/content/beers/_index.md'
-        label: 'Beers'
-        name: 'beers'
+      - file: "site/content/beers/_index.md"
+        label: "Beers"
+        name: "beers"
         fields:
           - {
               label: Sezioni,
@@ -137,15 +147,20 @@ collections:
                           widget: text,
                           required: false,
                         },
-                        { label: Immagine, name: image, widget: image, required: false },
+                        {
+                          label: Immagine,
+                          name: image,
+                          widget: image,
+                          required: false,
+                        },
                         { label: Prezzo, name: price, widget: string },
                       ],
                   },
                 ],
             }
-      - file: 'site/content/wines/_index.md'
-        label: 'Wines'
-        name: 'wines'
+      - file: "site/content/wines/_index.md"
+        label: "Wines"
+        name: "wines"
         fields:
           - {
               label: Sezioni,
@@ -173,9 +188,20 @@ collections:
                           widget: text,
                           required: false,
                         },
-                        { label: Immagine, name: image, widget: image, required: false },
+                        {
+                          label: Immagine,
+                          name: image,
+                          widget: image,
+                          required: false,
+                        },
                         { label: Prezzo, name: price, widget: string },
                       ],
                   },
                 ],
             }
+      - file: "site/content/promo/_index.md"
+        label: "Promo"
+        name: "promo"
+        fields:
+          - { label: Titolo, name: title, widget: string }
+          - { label: Immagine, name: image, widget: image }
