@@ -21,7 +21,7 @@ items:
 
           - Pollo al curry, crema di avocado, salsa sweet chili e uova dolce
         image: img/mythai_11maggio_126.jpg
-        price: "8.00"
+        price: "12.00"
   - title: ASIAN COCKTAIL
     description: I nostri cocktail ispirati alla cultura asiatica
     items:
