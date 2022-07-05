@@ -218,6 +218,7 @@ items:
 
           - Salsa di soia
         price: "13.00"
+        image: img/mythai_11maggio_002.jpg
       - name: THAI BOWL VEGGHY
         description: >-
           Riso, avocado, cavolo rosso, cetrioli, ravanello, papaya verde, mango
@@ -227,6 +228,7 @@ items:
 
           - Salsa di soia
         price: "12.00"
+        image: img/mythai_11maggio_026.jpg
 alert:
   title: ATTENZIONE
   content: Alcuni dei piatti e degli alimenti serviti in questo ristorante
