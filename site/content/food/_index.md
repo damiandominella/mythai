@@ -179,6 +179,53 @@ items:
       - name: "Dolce del giorno "
         description: (chiedere al cameriere)
         price: .
+  - title: THAI BOWL
+    items:
+      - name: THAI BOWL TONNO
+        description: >-
+          riso, avocado, mango, cavolo rosso, tartare di tonno marinato ed erba
+          cipollina
+
+          -Salsa Spicy 
+
+          -Salsa MyThai
+
+          -Salsa di soia
+        price: "14.00"
+        image: img/poke-tonno.jpg
+      - name: THAI BOWL GAMBERI
+        description: >-
+          riso, avocado, insalata, cavolo rosso, ravanello, pomodorini e gamberi
+          marinati
+
+
+          -Salsa Spicy
+
+          -Salsa MyThai
+
+          -Salsa di soia
+        price: "13.00"
+      - name: THAI BOWL POLLO
+        description: >-
+          Riso, avocado, cavolo rosso, cetrioli, ravanello e pollo marinato in
+          salsa Thai
+
+
+          - Salsa Spicy 
+
+          - Salsa MyThai 
+
+          - Salsa di soia
+        price: "13.00"
+      - name: THAI BOWL VEGGHY
+        description: >-
+          Riso, avocado, cavolo rosso, cetrioli, ravanello, papaya verde, mango
+          e anacardi croccanti
+
+          - Maionese vegana
+
+          - Salsa di soia
+        price: "12.00"
 alert:
   title: ATTENZIONE
   content: Alcuni dei piatti e degli alimenti serviti in questo ristorante
