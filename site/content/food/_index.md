@@ -137,7 +137,7 @@ items:
           -Salsa MyThai
 
           -Salsa di soia
-        price: "13.00"
+        price: "13.50"
         image: img/mythai_11maggio_039.jpg
       - name: THAI BOWL POLLO
         description: >-
@@ -150,7 +150,7 @@ items:
           - Salsa MyThai 
 
           - Salsa di soia
-        price: "13.00"
+        price: "13.50"
         image: img/mythai_11maggio_002.jpg
       - name: THAI BOWL VEGGHY
         description: >-
@@ -160,7 +160,7 @@ items:
           - Maionese vegana
 
           - Salsa di soia
-        price: "12.00"
+        price: "12.50"
         image: img/mythai_11maggio_026.jpg
   - title: SECONDI
     items:
