@@ -112,6 +112,56 @@ items:
         image: img/MyThai_6ott_0128.compressed.jpg
         price: "11.00"
         spicy: -2
+  - title: THAI BOWL
+    items:
+      - name: THAI BOWL TONNO
+        description: >-
+          riso, avocado, mango, cavolo rosso, tartare di tonno marinato ed erba
+          cipollina
+
+          -Salsa Spicy 
+
+          -Salsa MyThai
+
+          -Salsa di soia
+        price: "14.00"
+        image: img/poke-tonno.jpg
+      - name: THAI BOWL GAMBERI
+        description: >-
+          riso, avocado, insalata, cavolo rosso, ravanello, pomodorini e gamberi
+          marinati
+
+
+          -Salsa Spicy
+
+          -Salsa MyThai
+
+          -Salsa di soia
+        price: "13.00"
+        image: img/mythai_11maggio_039.jpg
+      - name: THAI BOWL POLLO
+        description: >-
+          Riso, avocado, cavolo rosso, cetrioli, ravanello e pollo marinato in
+          salsa Thai
+
+
+          - Salsa Spicy 
+
+          - Salsa MyThai 
+
+          - Salsa di soia
+        price: "13.00"
+        image: img/mythai_11maggio_002.jpg
+      - name: THAI BOWL VEGGHY
+        description: >-
+          Riso, avocado, cavolo rosso, cetrioli, ravanello, papaya verde, mango
+          e anacardi croccanti
+
+          - Maionese vegana
+
+          - Salsa di soia
+        price: "12.00"
+        image: img/mythai_11maggio_026.jpg
   - title: SECONDI
     items:
       - name: Thai Green Curry
@@ -179,56 +229,6 @@ items:
       - name: "Dolce del giorno "
         description: (chiedere al cameriere)
         price: .
-  - title: THAI BOWL
-    items:
-      - name: THAI BOWL TONNO
-        description: >-
-          riso, avocado, mango, cavolo rosso, tartare di tonno marinato ed erba
-          cipollina
-
-          -Salsa Spicy 
-
-          -Salsa MyThai
-
-          -Salsa di soia
-        price: "14.00"
-        image: img/poke-tonno.jpg
-      - name: THAI BOWL GAMBERI
-        description: >-
-          riso, avocado, insalata, cavolo rosso, ravanello, pomodorini e gamberi
-          marinati
-
-
-          -Salsa Spicy
-
-          -Salsa MyThai
-
-          -Salsa di soia
-        price: "13.00"
-        image: img/mythai_11maggio_039.jpg
-      - name: THAI BOWL POLLO
-        description: >-
-          Riso, avocado, cavolo rosso, cetrioli, ravanello e pollo marinato in
-          salsa Thai
-
-
-          - Salsa Spicy 
-
-          - Salsa MyThai 
-
-          - Salsa di soia
-        price: "13.00"
-        image: img/mythai_11maggio_002.jpg
-      - name: THAI BOWL VEGGHY
-        description: >-
-          Riso, avocado, cavolo rosso, cetrioli, ravanello, papaya verde, mango
-          e anacardi croccanti
-
-          - Maionese vegana
-
-          - Salsa di soia
-        price: "12.00"
-        image: img/mythai_11maggio_026.jpg
 alert:
   title: ATTENZIONE
   content: Alcuni dei piatti e degli alimenti serviti in questo ristorante
