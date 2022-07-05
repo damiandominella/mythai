@@ -205,6 +205,7 @@ items:
 
           -Salsa di soia
         price: "13.00"
+        image: img/mythai_11maggio_039.jpg
       - name: THAI BOWL POLLO
         description: >-
           Riso, avocado, cavolo rosso, cetrioli, ravanello e pollo marinato in
