@@ -92,6 +92,14 @@ items:
         image: img/myThai_0233.compressed.jpg
         price: "12.00"
         spicy: 1
+      - spicy: 3
+        price: "12.00"
+        name: Kimchi Fried Rice
+        description: >-
+          Riso saltato con verdure, kimchi, salsa coreana, uovo, bacon
+          croccante, cavolo cappuccio e alga nori.
+
+          (tipico coreano)
       - name: riso bianco thai jusmin
         description: ""
         image: img/myThai_0367.compressed.jpg
@@ -127,14 +135,6 @@ items:
           -Gamberi
         price: "10.00"
         image: img/img_3202.jpg
-      - spicy: 3
-        price: "12.00"
-        name: KIMCHI FRIED RICE
-        description: >-
-          Riso saltato con verdure, kimchi, salsa coreana, uovo, bacon
-          croccante, cavolo cappuccio e alga nori.
-
-          (tipico coreano)
   - title: THAI BOWL
     items:
       - name: THAI BOWL TONNO
