@@ -100,6 +100,7 @@ items:
           croccante, cavolo cappuccio e alga nori.
 
           (tipico coreano)
+        image: img/mythai_11maggio_251.jpg
       - name: riso bianco thai jusmin
         description: ""
         image: img/myThai_0367.compressed.jpg
