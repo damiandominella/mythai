@@ -75,6 +75,14 @@ items:
         price: 9,50
         image: img/myThai_0038-Modifica.compressed.jpg
         spicy: 2
+      - name: "Thai Ramen "
+        description: >-
+          Brodo di pollo fatto in casa, noodles di riso, spalla di maiale, uovo
+          sodo, cipollotto e alga nori.
+
+          opzionale: olio piccante thai
+        image: img/ramen.jpeg
+        price: "12.00"
       - name: Pineapple fried rice
         description: Riso saltato con gamberi e ananas
         price: "10.00"
@@ -93,7 +101,9 @@ items:
         image: img/food.jpeg
         price: "11.50"
       - name: Pad thai kung
-        description: con gamberi e verdure
+        description: |-
+          con gamberi e verdure
+          (BEST SELLER)
         image: img/myThai_0247.compressed.jpg
         price: "12.00"
       - name: Pad thai phak
@@ -117,14 +127,14 @@ items:
           -Gamberi
         price: "10.00"
         image: img/img_3202.jpg
-      - name: "Thai Ramen "
-        description: >-
-          Brodo di pollo fatto in casa, noodles di riso, spalla di maiale, uovo
-          sodo, cipollotto e alga nori.
-
-          opzionale: olio piccante thai
-        image: img/ramen.jpeg
+      - spicy: 3
         price: "12.00"
+        name: KIMCHI FRIED RICE
+        description: >-
+          Riso saltato con verdure, kimchi, salsa coreana, uovo, bacon
+          croccante, cavolo cappuccio e alga nori.
+
+          (tipico coreano)
   - title: THAI BOWL
     items:
       - name: THAI BOWL TONNO
