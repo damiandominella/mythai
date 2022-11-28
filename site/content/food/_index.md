@@ -185,23 +185,18 @@ items:
         spicy: 1
       - name: Pollo Panang
         description: bocconcini di pollo con curry rosso e latte di cocco
-        price: "10.50"
+        price: "11.00"
         spicy: 1
         image: img/mythai_6ott_0056.jpg
       - name: Gamberi Panang
         description: Gamberi con curry rosso e latte di cocco
         image: img/MyThai_6ott_0021.compressed.jpg
-        price: "11.00"
+        price: "11.50"
         spicy: 1
       - name: Chicken cashew nuts
         description: Pollo saltato con verdure miste e anacardi
         price: "10.00"
         image: img/myThai_0270.compressed.jpg
-      - name: Red curry beef
-        description: Filetto di manzo al curry rosso
-        price: "11.00"
-        image: img/myThai_0292.compressed.jpg
-        spicy: 1
       - name: Basil Thai pork
         description: Carne di maiale macinato, verdure, basilico, riso bianco e uovo
         image: img/mythai_6ott_0085.jpg
@@ -215,12 +210,13 @@ items:
       - name: Massaman pork
         description: Filetto di maiale marinata con pasta massaman, verdure e latte di cocco
         image: img/myThai_0352.compressed.jpg
-        price: "10.00"
-        spicy: 1
-      - name: "seafood yellow curry "
-        description: frutti di mare con curcuma, peperoncino e curry
-        image: img/myThai_0303.compressed.jpg
         price: "11.00"
+        spicy: 1
+      - name: Korean fried chicken
+        description: Alette di pollo fritte con kimchi, salsa coreana e cipollotto
+        image: img/img_3194-2.jpg
+        price: "8.00"
+        spicy: 1
       - name: Sweet and sour (6pz)
         description: Gamberi fritti con salsa agrodolce
         image: img/MyThai_6ott_0123.compressed.jpg
@@ -231,17 +227,20 @@ items:
         price: "6.00"
   - title: DOLCI
     items:
-      - name: Semifreddo cocco e mango
-        price: "5.00"
-      - name: Banana roll
-        description: Tipico thailandese
+      - name: Banana roll (3pz)
+        description: |-
+          (Tipico thailandese)
+          Banana avvolta nella sfoglia di riso fritta servita con gelato al riso
         price: "5.00"
       - name: Mochi (3pz)
-        description: Cocco - Mango - Vaniglia - Thè verde
+        description: Cocco - Mango - Vaniglia - Thè verde - Pistacchio
         price: "4.00"
-      - name: "Dolce del giorno "
-        description: (chiedere al cameriere)
-        price: .
+      - name: BAO BUNS DOLCI
+        description: |-
+          - NUTELLA E COCCO
+          - CREMINO AL PISTACCHIO
+          - CIOCCOLATO BIANCO E FRAGOLE
+        price: "5.00"
 alert:
   title: ATTENZIONE
   content: Alcuni dei piatti e degli alimenti serviti in questo ristorante
