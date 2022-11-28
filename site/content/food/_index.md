@@ -107,13 +107,13 @@ items:
         price: "3.00"
       - name: Pad thai ki
         description: con pollo e verdure
-        image: img/food.jpeg
+        image: img/myThai_0262.compressed.jpg
         price: "11.50"
       - name: Pad thai kung
         description: |-
           con gamberi e verdure
           (BEST SELLER)
-        image: img/myThai_0247.compressed.jpg
+        image: img/mythai_11maggio_201.jpg
         price: "12.00"
       - name: Pad thai phak
         description: vegetariano con verdure e uovo
