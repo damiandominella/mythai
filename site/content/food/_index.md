@@ -36,10 +36,10 @@ items:
       - name: Dimsum pollo (5 pz)
         description: Ravioli al vapore con pollo e verdure
         price: "7.00"
-        image: img/myThai_0193.compressed.jpg
+        image: img/mythai_11maggio_303.jpg
       - name: Dimsum gamberi (5 pz)
         description: Ravioli al vapore con gamberi e verdure
-        image: img/myThai_0187.compressed.jpg
+        image: img/mythai_11maggio_312.jpg
         price: "7.00"
       - name: Thai satè (3 pz)
         description: Pollo marinato al curry con salsa agli arachidi
