@@ -47,12 +47,12 @@ items:
         price: "6.00"
       - name: Bao Buns (1 pz)
         description: |-
-          Panino di riso cotto al vapore ripieno di:
+          Panino di riso cotto al vapore:
 
-          - Maiale marinato
-          - Pollo fritto in agrodolce
-          - Gambero in tempura
-          - Vegetariano
+          - MAIALE MARINATO
+          - POLLO FRITTO IN AGRODOLCE
+          - GAMBERO PANKO
+          - VEGETARIANO
         price: 5.00 cad.
         image: img/MyThai_6ott_0140.compressed.jpg
       - name: Thai Tacos (3pz)
