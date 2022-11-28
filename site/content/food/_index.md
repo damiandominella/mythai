@@ -13,23 +13,12 @@ items:
         price: 6,00
         image: img/myThai_0087.compressed.jpg
         spicy: 1
-      - name: Thai beef salad
-        description: Filetto di manzo, spaghetti di soia, lime, coriandolo, salsa di
-          soia, piccante, verdure alla julienne, menta
-        price: 9,50
-        image: img/myThai_0064-Modifica.compressed.jpg
-        spicy: 1
       - name: Spicy tuna salad
         description: Tonno crudo, erba cipollina, coriandolo, zucchine, pendolini, riso
           saltato, porro germogli, lime
         price: 10,50
         image: img/myThai_0116.compressed.jpg
         spicy: 2
-      - name: My thai seafood salad
-        description: calamaro, gambero, misto di verdure, lime, salsa di pesce
-        price: 11,00
-        image: img/myThai_0079.compressed.jpg
-        spicy: 1
       - name: Spring roll (3 pz)
         description: Carne macinata, verdura mista (carote, zucchine, erba cipollina,
           zenzero)
@@ -41,12 +30,12 @@ items:
         price: "4.50"
         image: img/myThai_0143.compressed.jpg
       - name: Dimsum gamberi (5 pz)
-        description: Ravioli al vapore con gamberi, verdure e salsa ostriche
+        description: Ravioli al vapore con gamberi e verdure
         image: img/myThai_0187.compressed.jpg
-        price: "6.00"
+        price: "7.00"
       - name: Dimsum pollo (5 pz)
-        description: Ravioli al vapore con pollo, verdure e salsa ostriche
-        price: "6.00"
+        description: Ravioli al vapore con pollo e verdure
+        price: "7.00"
         image: img/myThai_0193.compressed.jpg
       - name: Thai satè (3 pz)
         description: Pollo marinato al curry con salsa agli arachidi
@@ -69,6 +58,10 @@ items:
           - Pollo, crema di avocado, salsa thai e uova dolce
           - Gambero al lime, pomodorini, salsa sweet chili e avocado
         price: "12.00"
+      - name: Dimsum maiale (5pz)
+        description: Ravioli cotti al vapore con verza e maiale
+        price: "7.00"
+        image: img/dimsum-maiale-e-verza.jpg
   - title: PRIMI PIATTI
     description: il viaggio continua...
     items:
