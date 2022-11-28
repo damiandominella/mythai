@@ -16,31 +16,35 @@ items:
       - name: Spicy tuna salad
         description: Tonno crudo, erba cipollina, coriandolo, zucchine, pendolini, riso
           saltato, porro germogli, lime
-        price: 10,50
+        price: "11.00"
         image: img/myThai_0116.compressed.jpg
         spicy: 2
       - name: Spring roll (3 pz)
         description: Carne macinata, verdura mista (carote, zucchine, erba cipollina,
           zenzero)
-        price: 5,50
+        price: "5.00"
         image: img/myThai_0157.compressed.jpg
         spicy: 0
       - name: Vegghy spring roll (3 pz)
         description: Verdura mista, salsa di soia
         price: "4.50"
         image: img/myThai_0143.compressed.jpg
-      - name: Dimsum gamberi (5 pz)
-        description: Ravioli al vapore con gamberi e verdure
-        image: img/myThai_0187.compressed.jpg
+      - name: Dimsum maiale (5pz)
+        description: Ravioli cotti al vapore con verza e maiale
         price: "7.00"
+        image: img/dimsum-maiale-e-verza.jpg
       - name: Dimsum pollo (5 pz)
         description: Ravioli al vapore con pollo e verdure
         price: "7.00"
         image: img/myThai_0193.compressed.jpg
+      - name: Dimsum gamberi (5 pz)
+        description: Ravioli al vapore con gamberi e verdure
+        image: img/myThai_0187.compressed.jpg
+        price: "7.00"
       - name: Thai satè (3 pz)
         description: Pollo marinato al curry con salsa agli arachidi
         image: img/myThai_0170-Modifica.compressed.jpg
-        price: "5.00"
+        price: "6.00"
       - name: Bao Buns (1 pz)
         description: |-
           Panino di riso cotto al vapore ripieno di:
@@ -49,7 +53,7 @@ items:
           - Pollo fritto in agrodolce
           - Gambero in tempura
           - Vegetariano
-        price: 4.00 cad.
+        price: 5.00 cad.
         image: img/MyThai_6ott_0140.compressed.jpg
       - name: Thai Tacos (3pz)
         image: img/mythai_11maggio_155.jpg
@@ -58,10 +62,6 @@ items:
           - Pollo, crema di avocado, salsa thai e uova dolce
           - Gambero al lime, pomodorini, salsa sweet chili e avocado
         price: "12.00"
-      - name: Dimsum maiale (5pz)
-        description: Ravioli cotti al vapore con verza e maiale
-        price: "7.00"
-        image: img/dimsum-maiale-e-verza.jpg
   - title: PRIMI PIATTI
     description: il viaggio continua...
     items:
@@ -77,12 +77,12 @@ items:
         spicy: 2
       - name: Pineapple fried rice
         description: Riso saltato con gamberi e ananas
-        price: "9.50"
+        price: "10.00"
         image: img/myThai_0221.compressed.jpg
       - name: Nasi goreang
         description: Riso saltato con uovo, pollo e frutti di mare
         image: img/myThai_0233.compressed.jpg
-        price: "11.50"
+        price: "12.00"
         spicy: 1
       - name: riso bianco thai jusmin
         description: ""
@@ -91,20 +91,40 @@ items:
       - name: Pad thai ki
         description: con pollo e verdure
         image: img/food.jpeg
-        price: "11.00"
+        price: "11.50"
       - name: Pad thai kung
         description: con gamberi e verdure
         image: img/myThai_0247.compressed.jpg
-        price: "11.50"
+        price: "12.00"
       - name: Pad thai phak
         description: vegetariano con verdure e uovo
         image: img/myThai_0262.compressed.jpg
-        price: "10.00"
+        price: "10.50"
       - name: Shangai fried noodles
-        description: noodles di grano con uovo, verdure, pollo o gamberi.
+        description: |-
+          Noodles di grano con uovo, verdure e mix di spezie.
+          - GAMBERI 
+          - POLLO
+          - VEGETARIANO
         image: img/MyThai_6ott_0128.compressed.jpg
-        price: "11.00"
-        spicy: -2
+        price: 10.00 - 11.00 - 11.50
+        spicy: 1
+      - name: Spaghetti di soia
+        description: |-
+          Spaghetti di soia con uovo, verdure e salsa di soia.
+          -Vegetariano
+          -Pollo
+          -Gamberi
+        price: "10.00"
+        image: img/img_3202.jpg
+      - name: "Thai Ramen "
+        description: >-
+          Brodo di pollo fatto in casa, noodles di riso, spalla di maiale, uovo
+          sodo, cipollotto e alga nori.
+
+          opzionale: olio piccante thai
+        image: img/ramen.jpeg
+        price: "12.00"
   - title: THAI BOWL
     items:
       - name: THAI BOWL TONNO
