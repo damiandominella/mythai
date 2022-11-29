@@ -9,75 +9,92 @@ items:
   - title: BOLLICINE
     description: ""
     items:
-      - name: Prosecco valdobbiadene DOCG
-        description: "Rebuli "
-        price: "18"
-      - name: Prosecco DOC rosè
-        description: Ruffino
-        price: "18"
-      - name: Franciacorta brut
-        description: Contadi castaldi
-        price: "25"
-      - name: Franciacorta satèn
-        description: Camossi
-        price: "33"
-      - name: Ca' del bosco prestige
-        description: ""
-        price: "37"
-      - name: Ca' del bosco magnum
-        description: ""
-        price: "74"
+      - name: CONTARINI
+        description: Prosecco valdobbiadene DOCG
+        price: "18.00"
+      - name: FOSS MARAI
+        description: Prosecco valdobbiadene superiore DOCG
+        price: "22.00"
+      - name: RUFFINO ROSÈ
+        description: Prosecco rosè DOC
+        price: "20.00"
+      - name: TERRE DI CONTI DUCCO
+        description: Franciacorta brut
+        price: "24.00"
+      - name: BERSI SERLINI
+        description: Franciacorta brut
+        price: "28.00"
+      - name: LA MONTINA
+        description: Franciacorta extrabrut
+        price: "30.00"
+      - name: LA MONTINA
+        description: Franciacorta satèn
+        price: "33.00"
+      - name: CAMOSSI
+        description: Franciacorta satèn
+        price: "36.00"
+      - name: ALDENO
+        description: Trento doc pas dosè
+        price: "35.00"
+      - name: FERRARI PERLÈ
+        price: "45.00"
   - title: CHAMPAGNE
     items:
       - name: Louis Roederer
-        price: "60"
+        price: "70.00"
         description: Collection 242
       - name: Perrier-Jouet
         description: Grand brut
-        price: "65"
-      - name: Charles Heidsieck
-        description: Brut Reserve
-        price: "58"
+        price: "70.00"
+      - name: LES MESNIL
+        description: Blanc de blancs grand cru
+        price: "55.00"
   - title: BIANCHI FERMI
     items:
-      - name: Moscato giallo
+      - name: MOSCATO GIALLO
         description: Edmund Mach
-        price: "17"
-      - name: Sauvignon
+        price: "18.00"
+      - name: PINOT GRIGIO
         description: Edmund Mach
-        price: "18"
-      - name: Pinot grigio
+        price: "18.00"
+      - name: RIBOLLA GIALLA
         description: Edmund Mach
-        price: "17"
-      - name: Gewürztraminer
-        description: Justina Saint Pauls
-        price: "22"
-      - name: "Lugana "
+        price: "18.00"
+      - name: PECORINO
+        description: Cocci Grifoni
+        price: "20.00"
+      - name: LUGANA
         description: Ca dei frati
         price: "20"
+      - name: GEWÜZTRAMINER
+        description: H LUN
+        price: "22"
   - title: ROSSI
     items:
-      - name: Rosso di Marte - MORELLINO DI SCANSANO
+      - name: LAGREIN
+        description: Edmund Mach
+        price: "25.00"
+      - name: MORELLINO DI SCANSANO
         description: "Ruffino "
         price: "20"
-      - name: Rosso di Marte - BOLGHERI
+      - name: ROSSO DI MONTEPULCIANO
+        description: Ruffino
+        price: "23.00"
+      - name: PINOT NERO
+        description: Saint pauls
+        price: "28.00"
+      - name: ROSSO DI MARTE BOLGHERI
         description: Ruffino
         price: "30"
-      - name: Lagrein
-        description: Edmund Mach
-        price: "23"
-      - name: Ronchedone
-        description: Ca dei frati
-        price: "28"
   - title: CALICI
     items:
       - name: Calice rosso
         description: ""
-        price: "7"
+        price: "6.00"
       - name: Calice bianco fermo
         description: ""
-        price: "6"
+        price: "5.00"
       - name: Calice Franciacorta
         description: ""
-        price: "7"
+        price: "6.00"
 ---
