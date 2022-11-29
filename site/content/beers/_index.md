@@ -11,23 +11,26 @@ items:
     items:
       - name: Singha 33cl
         description: Thailandia
-        price: "4"
-      - name: Chang 33cl
+        price: "4.50"
+      - name: Singha 63cl
         description: |
           Thailandia
-        price: "4"
+        price: "8.00"
       - name: Menabrea 33cl
         description: Italia
         price: "3.50"
       - name: Ichnusa non filtrata 50cl
         description: Italia
-        price: "4.50"
+        price: "5.00"
       - name: Menabrea 5.5 75cl
         description: Italia
-        price: "9"
+        price: "10.00"
       - name: Viola Bionda 75cl
         description: italia (artigianale)
         price: "15"
+      - name: Viola Blanche 75cl
+        description: italia (artigianale)
+        price: "15.00"
   - title: BEVANDE
     items:
       - name: Acqua naturale o frizzante
@@ -41,16 +44,10 @@ items:
         price: "3.00"
   - title: "THÈ MATCHA "
     items:
-      - name: The freddo matcha al pompelmo
-        price: "4.00"
-        description: ""
       - name: The matcha al gusto lime
         description: ""
         price: "4.00"
       - name: Thè freddo matcha allo yuzu, zenzero e menta
-        description: ""
-        price: "4.00"
-      - name: The freddo matcha black gusto pesca e fava di tonta
         description: ""
         price: "4.00"
 ---
