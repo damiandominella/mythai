@@ -264,6 +264,11 @@ items:
         description: misto di verdure saltate alla wok
         image: img/myThai_0393.compressed.jpg
         price: "6.00"
+      - name: Tataki di tonno
+        description: Tataki di tonno in crosta di pistacchio con salsa teriyaki, crema
+          di avocado e porro fritto
+        price: "14.00"
+        image: img/img_6254.jpg
   - title: DOLCI
     items:
       - name: Banana roll (3pz)
