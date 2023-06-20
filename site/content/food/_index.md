@@ -156,6 +156,10 @@ items:
           -Gamberi
         price: "10.00"
         image: img/img_3202.jpg
+      - name: Pad thai Gambero rosso
+        description: con battuta di gambero rosso marinato al lime
+        price: "16.00"
+        image: img/img_6039.jpg
   - title: THAI BOWL
     items:
       - name: THAI BOWL TONNO
