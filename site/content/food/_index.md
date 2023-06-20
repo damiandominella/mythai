@@ -72,6 +72,16 @@ items:
           uovo croccante e mayo al curry verde
         price: "14.00"
         image: img/img_6197.jpg
+      - name: BLACK BAO BURGER
+        description: |-
+          -BAO SALMONE
+          Salmone, avocado, mayo al curry verde e teriyaki
+          -BAO TONNO
+          Tonno marinato in salsa thai, mayo giapponese, avocado e cavolo rosso
+          -BAO VEGGHI
+          Avocado, mayo di soia, uovo croccante e teriyaki
+        price: 6.00 cad
+        image: img/img_6223.jpg
   - title: PRIMI PIATTI
     description: il viaggio continua...
     items:
