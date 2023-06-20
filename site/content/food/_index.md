@@ -62,6 +62,11 @@ items:
           - Pollo, crema di avocado, salsa thai e uova dolce
           - Gambero al lime, pomodorini, salsa sweet chili e avocado
         price: "12.00"
+      - name: Tartare Salmone
+        description: Tartare di salmone marinato in salsa ponzu, avocado, pomodorini
+          gialli, mayo al curry verde, crema di cavolo rosso e riso
+        price: "15.00"
+        image: img/img_6199.jpg
   - title: PRIMI PIATTI
     description: il viaggio continua...
     items:
