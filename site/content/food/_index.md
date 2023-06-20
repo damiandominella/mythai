@@ -196,6 +196,10 @@ items:
           - Salsa di soia
         price: "12.50"
         image: img/mythai_11maggio_026.jpg
+      - name: THAI BOWL SALMONE
+        description: riso, avocado, mango, cavolo rosso, tartare di salmone marinato,
+          erba cipollina, mayo al curry verde e teriyaki
+        price: "15.00"
   - title: SECONDI
     items:
       - name: Thai Green Curry
