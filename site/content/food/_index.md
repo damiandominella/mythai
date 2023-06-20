@@ -67,6 +67,11 @@ items:
           gialli, mayo al curry verde, crema di cavolo rosso e riso
         price: "15.00"
         image: img/img_6199.jpg
+      - name: Tonno Scomposto
+        description: Tartare di tonno marinato in salsa thai, succo di lime, avocado,
+          uovo croccante e mayo al curry verde
+        price: "14.00"
+        image: img/img_6197.jpg
   - title: PRIMI PIATTI
     description: il viaggio continua...
     items:
