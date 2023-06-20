@@ -269,6 +269,11 @@ items:
           di avocado e porro fritto
         price: "14.00"
         image: img/img_6254.jpg
+      - name: Teppanyaki di salmone
+        description: Trancio di salmone alla piastra con salsa teriyaki, spinacino e
+          mayo al curry verde
+        image: img/img_6255.jpg
+        price: "14.00"
   - title: DOLCI
     items:
       - name: Banana roll (3pz)
