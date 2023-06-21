@@ -62,17 +62,17 @@ items:
           - Pollo, crema di avocado, salsa thai e uova dolce
           - Gambero al lime, pomodorini, salsa sweet chili e avocado
         price: "12.00"
-      - name: Tartare Salmone
+      - name: Tartare Salmone (NEW)
         description: Tartare di salmone marinato in salsa ponzu, avocado, pomodorini
           gialli, mayo al curry verde, crema di cavolo rosso e riso
         price: "15.00"
         image: img/img_6199.jpg
-      - name: Tonno Scomposto
+      - name: Tonno Scomposto (NEW)
         description: Tartare di tonno marinato in salsa thai, succo di lime, avocado,
           uovo croccante e mayo al curry verde
         price: "14.00"
         image: img/img_6197.jpg
-      - name: BLACK BAO BURGER
+      - name: BLACK BAO BURGER (NEW)
         description: |-
           -BAO SALMONE
           Salmone, avocado, mayo al curry verde e teriyaki
@@ -156,7 +156,7 @@ items:
           -Gamberi
         price: "10.00"
         image: img/img_3202.jpg
-      - name: Pad thai Gambero rosso
+      - name: Pad thai Gambero rosso (NEW)
         description: con battuta di gambero rosso marinato al lime
         price: "16.00"
         image: img/img_6039.jpg
@@ -210,7 +210,7 @@ items:
           - Salsa di soia
         price: "12.50"
         image: img/mythai_11maggio_026.jpg
-      - name: THAI BOWL SALMONE
+      - name: THAI BOWL SALMONE (NEW)
         description: riso, avocado, mango, cavolo rosso, tartare di salmone marinato,
           erba cipollina, mayo al curry verde e teriyaki
         price: "15.00"
@@ -264,12 +264,12 @@ items:
         description: misto di verdure saltate alla wok
         image: img/myThai_0393.compressed.jpg
         price: "6.00"
-      - name: Tataki di tonno
+      - name: Tataki di tonno (NEW)
         description: Tataki di tonno in crosta di pistacchio con salsa teriyaki, crema
           di avocado e porro fritto
         price: "14.00"
         image: img/img_6254.jpg
-      - name: Teppanyaki di salmone
+      - name: Teppanyaki di salmone (NEW)
         description: Trancio di salmone alla piastra con salsa teriyaki, spinacino e
           mayo al curry verde
         image: img/img_6255.jpg
