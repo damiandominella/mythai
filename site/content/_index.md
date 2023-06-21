@@ -2,7 +2,7 @@
 title: Menu
 sections:
   - title: Food
-    image: img/food.jpeg
+    image: img/dsc03498.jpg
     link: food
   - title: Drinks & Appetizers
     image: img/drink.jpeg
