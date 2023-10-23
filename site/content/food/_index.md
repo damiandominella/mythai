@@ -43,7 +43,7 @@ items:
         price: 6.00 cad.
         image: img/MyThai_6ott_0140.compressed.jpg
       - name: Thai Tacos (2pz) Tacos Mix (4pz)
-        image: img/mythai_11maggio_155.jpg
+        image: img/img_8241.jpg
         description: |-
           - Tonno marinato, crema di avocado, salsa thai e mayo spicy
           - Pollo, crema di avocado, salsa thai e cavolo rosso
