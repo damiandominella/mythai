@@ -82,12 +82,12 @@ items:
     items:
       - name: Tom yum kung
         description: Zuppa di gamberi
-        price: 9,00
+        price: 10,00
         image: img/myThai_0034-Modifica.compressed.jpg
         spicy: 2
       - name: Tom yum khay
         description: Zuppa di pollo, latte di cocco
-        price: 9,50
+        price: "11.00"
         image: img/myThai_0038-Modifica.compressed.jpg
         spicy: 2
       - name: "Thai Ramen "
@@ -97,10 +97,10 @@ items:
 
           opzionale: olio piccante thai
         image: img/ramen.jpeg
-        price: "12.00"
+        price: "15.00"
       - name: Pineapple fried rice
         description: Riso saltato con gamberi e ananas
-        price: "10.00"
+        price: "11.00"
         image: img/myThai_0221.compressed.jpg
       - name: Nasi goreang
         description: Riso saltato con uovo, pollo e frutti di mare
@@ -123,17 +123,17 @@ items:
       - name: Pad thai ki
         description: con pollo e verdure
         image: img/myThai_0262.compressed.jpg
-        price: "11.50"
+        price: "12.00"
       - name: Pad thai kung
         description: |-
           con gamberi e verdure
           (BEST SELLER)
         image: img/mythai_11maggio_201.jpg
-        price: "12.00"
+        price: "13.00"
       - name: Pad thai phak
         description: vegetariano con verdure e uovo
         image: img/myThai_0262.compressed.jpg
-        price: "10.50"
+        price: "11.00"
       - name: Shangai fried noodles
         description: |-
           Noodles di grano con uovo, verdure e mix di spezie.
@@ -141,7 +141,7 @@ items:
           - POLLO
           - VEGETARIANO
         image: img/MyThai_6ott_0128.compressed.jpg
-        price: 10.00 - 11.00 - 11.50
+        price: 11.00 - 12.00 - 13.00
         spicy: 1
       - name: Spaghetti di soia
         description: |-
@@ -149,7 +149,7 @@ items:
           -Vegetariano
           -Pollo
           -Gamberi
-        price: "10.00"
+        price: "11.00"
         image: img/img_3202.jpg
       - name: Pad thai Gambero rosso (NEW)
         description: con battuta di gambero rosso marinato al lime
