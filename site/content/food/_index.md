@@ -54,7 +54,7 @@ items:
         description: Tartare di salmone marinato in salsa ponzu, avocado, tabasco verde,
           mayo al curry verde, teriyaki su cialda croccante di mais e riso
         price: "16.00"
-        image: img/img_6199.jpg
+        image: img/img_8146.jpg
       - name: Tartare Tonno
         description: Tartare di tonno marinato in salsa thai, succo di lime, avocado,
           uovo croccante e mayo al curry verde
@@ -77,6 +77,7 @@ items:
 
           (variante vegetariana con salmone)
         price: "8.00"
+        image: img/img_8243.jpg
   - title: PRIMI PIATTI
     description: il viaggio continua...
     items:
