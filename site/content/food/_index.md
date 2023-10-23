@@ -78,6 +78,18 @@ items:
           (variante vegetariana con salmone)
         price: "8.00"
         image: img/img_8243.jpg
+      - name: Tartare Tris
+        description: |-
+          Tris di mini tartare a fantasia dello chef servito con pane bao nero
+          -Tartare di tonno
+          -Tartare di salmone
+          -Tartare di gambero rosso
+        image: img/img_8242.jpg
+        price: "20.00"
+      - name: Shrimp Balls (4pz)
+        description: Polpettine di gambero fritte con salsa sweet chilly Thai
+        price: "6.00"
+        image: img/img_8149.jpg
   - title: PRIMI PIATTI
     description: il viaggio continua...
     items:
