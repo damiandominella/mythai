@@ -109,7 +109,7 @@ items:
           sodo, cipollotto e alga nori.
 
           opzionale: olio piccante thai
-        image: img/ramen.jpeg
+        image: img/img_3643.jpg
         price: "15.00"
       - name: Pineapple fried rice
         description: Riso saltato con gamberi e ananas
