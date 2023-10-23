@@ -70,6 +70,13 @@ items:
           Avocado, mayo di soia, uovo croccante e teriyaki
         price: 7.00 cad
         image: img/img_6223.jpg
+      - name: Katsu-Sando
+        description: >-
+          Pan brioche marinato nell'uovo, filetto di pollo panko speziato alla
+          paprika, mayo alla menta insalata e cavolo rosso
+
+          (variante vegetariana con salmone)
+        price: "8.00"
   - title: PRIMI PIATTI
     description: il viaggio continua...
     items:
@@ -218,7 +225,7 @@ items:
       - name: Gamberi Panang
         description: Gamberi con curry rosso e latte di cocco
         image: img/MyThai_6ott_0021.compressed.jpg
-        price: "11.50"
+        price: "12.00"
         spicy: 1
       - name: Chicken cashew nuts
         description: Pollo saltato con verdure miste e anacardi
@@ -227,12 +234,12 @@ items:
       - name: Basil Thai pork
         description: Carne di maiale macinato, verdure, basilico, riso bianco e uovo
         image: img/mythai_6ott_0085.jpg
-        price: "11.00"
+        price: "12.00"
         spicy: 1
       - name: Basil Thai chicken
         description: carne di pollo macinata, verdure, basilico, riso bianco e uovo
         image: img/MyThai_6ott_0087.compressed.jpg
-        price: "11.00"
+        price: "12.00"
         spicy: 1
       - name: Massaman pork
         description: Filetto di maiale marinata con pasta massaman, verdure e latte di cocco
