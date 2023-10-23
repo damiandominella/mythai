@@ -7,18 +7,6 @@ items:
     description: Benvenuti a bordo, ecco a voi il perfetto inizio per questo viaggio
       con il gusto e con la mente destinazione Thailandia...
     items:
-      - name: Papaya green salad
-        description: Papaya verde, pomodoro, peperoni, cipolla, erba cipollina, salsa di
-          pesce, lime, zucchero
-        price: 6,00
-        image: img/myThai_0087.compressed.jpg
-        spicy: 1
-      - name: Spicy tuna salad
-        description: Tonno crudo, erba cipollina, coriandolo, zucchine, pendolini, riso
-          saltato, porro germogli, lime
-        price: "11.00"
-        image: img/myThai_0116.compressed.jpg
-        spicy: 2
       - name: Spring roll (3 pz)
         description: Carne macinata, verdura mista (carote, zucchine, erba cipollina,
           zenzero)
@@ -52,27 +40,27 @@ items:
           - MAIALE MARINATO
           - POLLO FRITTO IN AGRODOLCE
           - GAMBERO PANKO
-          - VEGETARIANO
-        price: 5.00 cad.
+        price: 6.00 cad.
         image: img/MyThai_6ott_0140.compressed.jpg
-      - name: Thai Tacos (3pz)
+      - name: Thai Tacos (2pz) Tacos Mix (4pz)
         image: img/mythai_11maggio_155.jpg
         description: |-
-          - Tonno marinato, crema di avocado, salsa thai e uova dolce
-          - Pollo, crema di avocado, salsa thai e uova dolce
+          - Tonno marinato, crema di avocado, salsa thai e mayo spicy
+          - Pollo, crema di avocado, salsa thai e cavolo rosso
           - Gambero al lime, pomodorini, salsa sweet chili e avocado
-        price: "12.00"
-      - name: Tartare Salmone (NEW)
-        description: Tartare di salmone marinato in salsa ponzu, avocado, pomodorini
-          gialli, mayo al curry verde, crema di cavolo rosso e riso
-        price: "15.00"
+          - Salmone, crema di avocado, mayo al curry verde e cipollotto
+        price: 10.00 / 16.00
+      - name: "Tartare Salmone "
+        description: Tartare di salmone marinato in salsa ponzu, avocado, tabasco verde,
+          mayo al curry verde, teriyaki su cialda croccante di mais e riso
+        price: "16.00"
         image: img/img_6199.jpg
-      - name: Tonno Scomposto (NEW)
+      - name: Tartare Tonno
         description: Tartare di tonno marinato in salsa thai, succo di lime, avocado,
           uovo croccante e mayo al curry verde
-        price: "14.00"
+        price: "16.00"
         image: img/img_6197.jpg
-      - name: BLACK BAO BURGER (NEW)
+      - name: "BLACK BAO BURGER "
         description: |-
           -BAO SALMONE
           Salmone, avocado, mayo al curry verde e teriyaki
@@ -80,7 +68,7 @@ items:
           Tonno marinato in salsa thai, mayo giapponese, avocado e cavolo rosso
           -BAO VEGGHI
           Avocado, mayo di soia, uovo croccante e teriyaki
-        price: 6.00 cad
+        price: 7.00 cad
         image: img/img_6223.jpg
   - title: PRIMI PIATTI
     description: il viaggio continua...
@@ -198,7 +186,7 @@ items:
           - Salsa MyThai 
 
           - Salsa di soia
-        price: "13.50"
+        price: "13.00"
         image: img/mythai_11maggio_002.jpg
       - name: THAI BOWL VEGGHY
         description: >-
@@ -208,9 +196,9 @@ items:
           - Maionese vegana
 
           - Salsa di soia
-        price: "12.50"
+        price: "12.00"
         image: img/mythai_11maggio_026.jpg
-      - name: THAI BOWL SALMONE (NEW)
+      - name: "THAI BOWL SALMONE "
         description: riso, avocado, mango, cavolo rosso, tartare di salmone marinato,
           erba cipollina, mayo al curry verde e teriyaki
         price: "15.00"
@@ -264,19 +252,19 @@ items:
         description: misto di verdure saltate alla wok
         image: img/myThai_0393.compressed.jpg
         price: "6.00"
-      - name: Tataki di tonno (NEW)
+      - name: Tataki di tonno
         description: Tataki di tonno in crosta di pistacchio con salsa teriyaki, crema
           di avocado e porro fritto
-        price: "14.00"
+        price: "15.00"
         image: img/img_6254.jpg
-      - name: Teppanyaki di salmone (NEW)
+      - name: "Teppanyaki di salmone "
         description: Trancio di salmone alla piastra con salsa teriyaki, spinacino e
           mayo al curry verde
         image: img/img_6255.jpg
-        price: "14.00"
+        price: "15.00"
   - title: DOLCI
     items:
-      - name: Banana roll (3pz)
+      - name: Semifreddo cocco e mango
         description: |-
           (Tipico thailandese)
           Banana avvolta nella sfoglia di riso fritta servita con gelato al riso
