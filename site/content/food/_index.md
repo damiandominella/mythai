@@ -66,6 +66,11 @@ items:
           uovo croccante e mayo al curry verde
         price: "16.00"
         image: img/img_6197.jpg
+      - name: Tartare di manzo al ponzu
+        description: Tartare di scottona marinata in salsa ponzu, chiracha, senape al
+          miele, tabasco verde, succo di lime, stracciatella di burrata, uovo
+          croccante su pan brioche
+        price: "16.00"
       - name: "BLACK BAO BURGER "
         description: |-
           -BAO SALMONE
@@ -74,6 +79,8 @@ items:
           Tonno marinato in salsa thai, mayo giapponese, avocado e cavolo rosso
           -BAO VEGGHI
           Avocado, mayo di soia, uovo croccante e teriyaki
+          -BAO MANZO
+          tartare di manzo, spinacino, cavolo rosso e mayo al curry verde
         price: 7.00 cad
         image: img/img_6223.jpg
       - name: Katsu-Sando
