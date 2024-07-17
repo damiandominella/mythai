@@ -29,10 +29,13 @@ items:
         description: Ravioli al vapore con gamberi e verdure
         image: img/mythai_11maggio_312.jpg
         price: "7.00"
-      - name: Thai satè (3 pz)
+      - name: Dimsum Vegetariani (5pz)
+        description: Ravioli cotti al vapore con verdure miste
+        price: "7.00"
+      - name: Chicken Satay (3pz)
         description: Pollo marinato al curry con salsa agli arachidi
         image: img/myThai_0170-Modifica.compressed.jpg
-        price: "6.00"
+        price: "7.00"
       - name: Bao Buns (1 pz)
         description: |-
           Panino di riso cotto al vapore:
