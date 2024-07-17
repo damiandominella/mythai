@@ -277,7 +277,7 @@ items:
       - name: Sweet and sour (6pz)
         description: Gamberi fritti con salsa agrodolce
         image: img/MyThai_6ott_0123.compressed.jpg
-        price: "8.00"
+        price: "10.00"
       - name: Wok fried vegetables
         description: misto di verdure saltate alla wok
         image: img/myThai_0393.compressed.jpg
