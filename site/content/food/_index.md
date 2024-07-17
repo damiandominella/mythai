@@ -123,15 +123,15 @@ items:
         price: "15.00"
       - name: Pineapple fried rice
         description: Riso saltato con gamberi e ananas
-        price: "11.00"
+        price: "12.00"
         image: img/myThai_0221.compressed.jpg
       - name: Nasi goreang
         description: Riso saltato con uovo, pollo e frutti di mare
         image: img/myThai_0233.compressed.jpg
-        price: "12.00"
+        price: "13.00"
         spicy: 1
       - spicy: 3
-        price: "12.00"
+        price: "13.00"
         name: Kimchi Fried Rice
         description: >-
           Riso saltato con verdure, kimchi, salsa coreana, uovo, bacon
@@ -191,46 +191,38 @@ items:
   - title: THAI BOWL
     items:
       - name: "THAI BOWL SALMONE "
-        description: riso, avocado, mango, cavolo rosso, tartare di salmone marinato,
+        description: riso, avocado, cavolo rosso, cetrioli, tartare di salmone marinato,
           erba cipollina, mayo al curry verde e teriyaki
         price: "15.00"
       - name: THAI BOWL TONNO
         description: >-
-          riso, avocado, mango, cavolo rosso, tartare di tonno marinato ed erba
-          cipollina
+          riso, avocado, cavolo rosso, cetrioli, tartare di tonno marinato ed
+          erba cipollina
 
           -Salsa Spicy 
 
           -Salsa MyThai
 
           -Salsa di soia
-        price: "14.00"
+        price: "15.00"
         image: img/poke-tonno.jpg
       - name: THAI BOWL GAMBERI
-        description: >-
-          riso, avocado, insalata, cavolo rosso, ravanello, pomodorini e gamberi
-          marinati
-
+        description: |-
+          riso, avocado, insalata, cavolo rosso, pomodorini e gamberi marinati
 
           -Salsa Spicy
-
           -Salsa MyThai
-
           -Salsa di soia
-        price: "13.50"
+        price: "14.00"
         image: img/mythai_11maggio_039.jpg
       - name: THAI BOWL POLLO
-        description: >-
-          Riso, avocado, cavolo rosso, cetrioli, ravanello e pollo marinato in
-          salsa Thai
-
+        description: |-
+          Riso, avocado, cavolo rosso, cetrioli,  pollo marinato in salsa Thai
 
           - Salsa Spicy 
-
           - Salsa MyThai 
-
           - Salsa di soia
-        price: "13.00"
+        price: "14.00"
         image: img/mythai_11maggio_002.jpg
   - title: SECONDI
     items:
