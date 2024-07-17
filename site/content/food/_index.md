@@ -15,7 +15,7 @@ items:
         spicy: 0
       - name: Vegghy spring roll (3 pz)
         description: Verdura mista, salsa di soia
-        price: "4.50"
+        price: "5.00"
         image: img/myThai_0143.compressed.jpg
       - name: Dimsum maiale (5pz)
         description: Ravioli cotti al vapore con verza e maiale
