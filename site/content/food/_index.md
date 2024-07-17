@@ -54,8 +54,11 @@ items:
           - Salmone, crema di avocado, mayo al curry verde e cipollotto
         price: 10.00 / 16.00
       - name: "Tartare Salmone "
-        description: Tartare di salmone marinato in salsa ponzu, avocado, tabasco verde,
-          mayo al curry verde, teriyaki su cialda croccante di mais e riso
+        description: >-
+          Tartare di salmone marinato in salsa ponzu, avocado, tabasco verde,
+          mayo al curry verde, pomodorini, mela verde, teriyaki
+
+          cialda croccante di riso e mais
         price: "16.00"
         image: img/img_8146.jpg
       - name: Tartare Tonno
@@ -74,12 +77,9 @@ items:
         price: 7.00 cad
         image: img/img_6223.jpg
       - name: Katsu-Sando
-        description: >-
-          Pan brioche marinato nell'uovo, filetto di pollo panko speziato alla
-          paprika, mayo alla menta insalata e cavolo rosso
-
-          (variante vegetariana con salmone)
-        price: "8.00"
+        description: Pan brioche marinato nell'uovo, filetto di pollo panko speziato
+          alla paprika, mayo alla menta, avocado e cavolo rosso
+        price: "10.00"
         image: img/img_8243.jpg
       - name: Tartare Tris
         description: |-
