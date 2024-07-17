@@ -174,12 +174,26 @@ items:
           -Gamberi
         price: "11.00"
         image: img/img_3202.jpg
-      - name: Pad thai Gambero rosso (NEW)
+      - name: "Pad thai Gambero rosso "
         description: con battuta di gambero rosso marinato al lime
         price: "16.00"
         image: img/img_6039.jpg
+      - name: Mazesoba (NEW)
+        description: noodles di riso cotti nel brodo ramen, ragù giapponese di maiale,
+          bacon croccante, tuorlo d'uovo marinato nella soia, cipollotto e alga
+          nori
+        price: "14.00"
+        spicy: 1
+      - name: Fresh Soba (NEW)
+        description: Noodles di grano saraceno freddi con tartare di tonno e salmone,
+          salsa ponzu, pomodorini, pack choi croccante e scorza di yuzu
+        price: "15.00"
   - title: THAI BOWL
     items:
+      - name: "THAI BOWL SALMONE "
+        description: riso, avocado, mango, cavolo rosso, tartare di salmone marinato,
+          erba cipollina, mayo al curry verde e teriyaki
+        price: "15.00"
       - name: THAI BOWL TONNO
         description: >-
           riso, avocado, mango, cavolo rosso, tartare di tonno marinato ed erba
@@ -218,20 +232,6 @@ items:
           - Salsa di soia
         price: "13.00"
         image: img/mythai_11maggio_002.jpg
-      - name: THAI BOWL VEGGHY
-        description: >-
-          Riso, avocado, cavolo rosso, cetrioli, ravanello, papaya verde, mango
-          e anacardi croccanti
-
-          - Maionese vegana
-
-          - Salsa di soia
-        price: "12.00"
-        image: img/mythai_11maggio_026.jpg
-      - name: "THAI BOWL SALMONE "
-        description: riso, avocado, mango, cavolo rosso, tartare di salmone marinato,
-          erba cipollina, mayo al curry verde e teriyaki
-        price: "15.00"
   - title: SECONDI
     items:
       - name: Thai Green Curry
